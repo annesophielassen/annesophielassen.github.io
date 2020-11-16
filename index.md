@@ -5,21 +5,22 @@ description: Blue Ham is a PhD candidate at Broom University.
 keywords: Blue, Ham, treats, recycling, mail, being a good boy
 ---
 
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+I am a PhD Fellow at Department of Economics at Copenhagen Business School. As an applied micro economists, my research is placed within the intersection of labour, gender and family economics. 
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+On you find my  
+[CV ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/> here. 
 
 
 ---
 
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="Contact"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Anne Sophie Lassen<br/>
+            Email: assl.eco@cbs.dk<br/>
         </div>
 
         <div class="span2">
@@ -35,7 +36,7 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+          <li><a href="https://twitter.com/AnSoLassen">Twitter (@AnSoLassen)</a></li>
       </ul>
   </div>
 </div>
