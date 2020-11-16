@@ -15,15 +15,15 @@ Find my
 
 
 <div class="container">
-<h4><a name="Contact"></a>contact</h4>
+<h4><a name="Contact"></a>Contact</h4>
 
     <div class="row-fluid">
-        <div class="span5">
+        <div class="span2">
             Anne Sophie Lassen<br/>
             Email: assl.eco@cbs.dk<br/>
         </div>
 
-        <div class="span2">
+        <div class="span5">
         <a href="../assets/headshot_long.jpg">
             <img src="../assets/headshot_long.jpg"
                   title="Lassen" alt="Lassen"/></a>
