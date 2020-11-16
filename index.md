@@ -24,9 +24,9 @@ Find my
         </div>
 
         <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+        <a href="../assets/headshot_long.jpg">
+            <img src="../assets/headshot_long.jpg"
+                  title="Lassen" alt="Lassen"/></a>
         </div>
     </div>
 </div>
