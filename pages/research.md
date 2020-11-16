@@ -3,7 +3,7 @@ layout: page
 title: Research
 description: Anne Sophie Lassen's research
 ---
-#####Research
+#####Working Papers
 #### <u>Norms and Specialization in Household Production: Evidence from a Danish Parental Leave Reform</u>
 *This paper shows that decisions regarding intra-household specializations are determined by gender norms rather than standard economic incentives. To test theoretical predictions of both the standard model of intra-household division of labor and the role of gender identity,
 social category and prescriptions, I use variation from a Danish parental leave reform. 
