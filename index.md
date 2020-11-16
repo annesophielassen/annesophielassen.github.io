@@ -11,7 +11,10 @@ keywords: econ, gender, Lassen
 
     <div class="row-fluid">
         <div class="span2">
-            Anne Sophie Lassen<br/>
+            PhD Fellow in Economics<br/>
+	Copenhagen Business School<br/>
+
+
             Email: assl.eco@cbs.dk<br/>
 	Twitter: @AnSoLassen<br/>
         </div>
@@ -26,8 +29,11 @@ keywords: econ, gender, Lassen
 
 I am a PhD Fellow at Department of Economics at Copenhagen Business School. 
 
-As an applied micro economists, my research is placed within the intersection of labour, gender and family economics. 
+My research is primarily concerned with gender inequality, incl. differences in labor market outcomes and implications of this.
+This means my work is placed within the intersection of labour, family economics and public economics. 
 
+Before starting my PhD studies, I was a RA for Tom Kirchmaier and Niels Westergaard-Nielsen. 
+I hold a MSc and BSc in Economics (cand.polit) from Copenhagen University.
 
 ---
 
