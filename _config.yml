@@ -9,13 +9,13 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 title : Anne Sophie Lassen
-author :
+author : Anne Sophie Lassen
   name : Anne Sophie Lassen
   email : assl.eco@cbs.dk
   github : 
   twitter : AnSoLassen
 
-production_url : http://marisabriana.github.io
+production_url : http://anesophie.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
