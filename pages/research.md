@@ -3,9 +3,6 @@ layout: page
 title: Research
 description: Anne Sophie Lassen's research
 ---
-
-
-
 #### <u>Norms and Specialization in Household Production: Evidence from a Danish Parental Leave Reform</u>
 *This paper*
 
