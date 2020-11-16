@@ -10,10 +10,10 @@ highlighter: rouge
 #
 title : Anne Sophie Lassen
 author : Anne Sophie Lassen
-  name : 
-  email : assl.eco@cbs.dk
-  github : annesophielassen
-  twitter : AnSoLassen
+name : Anne Sophie Lassen
+email : assl.eco@cbs.dk
+github : annesophielassen
+twitter : AnSoLassen
 
 production_url : http://anesophie.github.io
 
