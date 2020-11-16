@@ -21,7 +21,7 @@ Find my
         <div class="span2">
             Anne Sophie Lassen<br/>
             Email: assl.eco@cbs.dk<br/>
-	Twitter: @AnSoLassen
+	Twitter: @AnSoLassen<br/>
         </div>
 
         <div class="span5">
