@@ -35,7 +35,7 @@ public economics.
 
 Before starting my PhD studies, I was a RA for Tom Kirchmaier and Niels Westergaard-Nielsen. 
 I hold a MSc 
-and BSc in Economics (cand.polit) from Copenhagen University.
+and BSc in Economics (cand.polit) from University of Copenhagen.
 
 ---
 
