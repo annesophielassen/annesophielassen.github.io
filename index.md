@@ -8,7 +8,7 @@ keywords: econ, gender, Lassen
 <h4><a name="Contact">Anne Sophie Lassen</a></h4>
 
     <div class="row-fluid">
-        <div class="span5">
+        <div class="span4">
             PhD Fellow in Economics<br/>
 	Copenhagen Business School<br/>
 
