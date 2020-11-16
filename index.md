@@ -17,7 +17,7 @@ keywords: econ, gender, Lassen
 	Twitter: @AnSoLassen<br/>
         </div>
 
-        <div class="span2">
+        <div class="span3">
         <a href="../assets/headshot_long.jpg">
             <img src="../assets/headshot_long.jpg"
                   title="Lassen" alt="Lassen"/></a>
