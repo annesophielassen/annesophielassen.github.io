@@ -25,13 +25,17 @@ keywords: econ, gender, Lassen
     </div>
 </div>
 
+
+
 I am a PhD Fellow at Department of Economics at Copenhagen Business School. 
 
 My research is primarily concerned with gender inequality, incl. gender differences in labor market choices and implications of this.
-This means my work is placed within the intersection of labour, family economics and public economics. 
+This means my work is placed within the intersection of labour, family economics and 
+public economics. 
 
 Before starting my PhD studies, I was a RA for Tom Kirchmaier and Niels Westergaard-Nielsen. 
-I hold a MSc and BSc in Economics (cand.polit) from Copenhagen University.
+I hold a MSc 
+and BSc in Economics (cand.polit) from Copenhagen University.
 
 ---
 
