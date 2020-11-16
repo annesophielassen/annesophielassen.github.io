@@ -9,7 +9,7 @@ social category and prescriptions, I use variation from a Danish parental leave 
 I find large and homogeneous effects among mothers and virtually unchanged behavior among fathers, irrespective of relative earnings in the household. 
 This is consistent with the notion of pay-off from gender identity. Subsequent peer effects among sisters are interpreted as reform-induced change in prescriptions regarding extensive leave for mothers*
 
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/WP_GenderNorms_Lassen.pdf)
+[Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/WP_GenderNorms_Lassen.pdf) (October 2020)
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
