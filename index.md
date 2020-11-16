@@ -4,13 +4,11 @@ title: Anne Sophie Lassen
 description: Anne Sophie Lassen is PhD Fellow at Copenhagen Business School.
 keywords: econ, gender, Lassen
 ---
-
-###### Welcome!
 <div class="container">
 <h4><a name="Contact">Anne Sophie Lassen</a></h4>
 
     <div class="row-fluid">
-        <div class="span2">
+        <div class="span5">
             PhD Fellow in Economics<br/>
 	Copenhagen Business School<br/>
 
@@ -19,7 +17,7 @@ keywords: econ, gender, Lassen
 	Twitter: @AnSoLassen<br/>
         </div>
 
-        <div class="span3">
+        <div class="span2">
         <a href="../assets/headshot_long.jpg">
             <img src="../assets/headshot_long.jpg"
                   title="Lassen" alt="Lassen"/></a>
@@ -29,7 +27,7 @@ keywords: econ, gender, Lassen
 
 I am a PhD Fellow at Department of Economics at Copenhagen Business School. 
 
-My research is primarily concerned with gender inequality, incl. differences in labor market outcomes and implications of this.
+My research is primarily concerned with gender inequality, incl. gender differences in labor market choices and implications of this.
 This means my work is placed within the intersection of labour, family economics and public economics. 
 
 Before starting my PhD studies, I was a RA for Tom Kirchmaier and Niels Westergaard-Nielsen. 
