@@ -5,8 +5,7 @@ description: Anne Sophie Lassen is PhD Fellow at Copenhagen Business School.
 keywords: econ, gender, Lassen
 ---
 #### Anne Sophie Lassen
-<div class="container">
-<h4><a name="Contact">Anne Sophie Lassen</a></h4>
+
 
     <div class="row-fluid">
         <div class="span4">
@@ -36,7 +35,7 @@ public economics.
 
 Before starting my PhD studies, I was a RA for <a href="https://sites.google.com/site/tomkirchmaier/home"> Tom Kirchmaier</a> and <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-accounting/staff/nwnacc/">Niels Westergaard-Nielsen</a>. 
 I hold a BSc 
-and MSc in Economics (cand.polit) from <a href="https://www.ku.dk/english/"> University of Copenhagen </a>.
+and MSc in <a href="https://www.economics.ku.dk/"> Economics</a> (cand.polit) from <a href="https://www.ku.dk/english/"> University of Copenhagen </a>.
 
 ---
 
