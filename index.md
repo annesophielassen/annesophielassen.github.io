@@ -14,8 +14,7 @@ keywords: econ, gender, Lassen
 
 
             Email: assl.eco@cbs.dk<br/>
-	Twitter: <a href="https://twitter.com/AnSoLassen" target="_blank">@AnSoLassen</a>
-@AnSoLassen<br/>
+	Twitter: <a href="https://twitter.com/AnSoLassen" target="_blank">@AnSoLassen</a><br/>
         </div>
 
         <div class="span3">
@@ -28,7 +27,7 @@ keywords: econ, gender, Lassen
 
 
 
-I am a PhD Fellow at Department of Economics at Copenhagen Business School. 
+I am a PhD Fellow at <p><a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/">Department of Economics</a></p> at <p><a href="https://www.cbs.dk/en/">Copenhagen Business School</a></p>. 
 
 My research is primarily concerned with gender inequality, incl. gender differences in labor market choices and implications of this.
 This means my work is placed within the intersection of labour, family economics and 
