@@ -13,7 +13,7 @@ keywords: econ, gender, Anne Sophie Lassen, Copenhagen Business School, Economic
 <br/>
 I am a PhD Fellow at the <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/">Department of Economics</a> at <a href="https://www.cbs.dk/en/">Copenhagen Business School</a>.<br/>
 <br/> 
-My research is primarily concerned with the origin and implications of gender differences in labor market choices. 
+My research is primarily concerned with the mechanisms behind and implications of gender differences in labor market choices. 
 This means my work is placed within the intersection of labor, household, gender and public economics. <br/>
 <br> 
 Before starting my PhD studies, I was an RA for <a href="https://sites.google.com/site/tomkirchmaier/home"> Tom Kirchmaier</a> and <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-accounting/staff/nwnacc/">Niels Westergaard-Nielsen</a>. 
