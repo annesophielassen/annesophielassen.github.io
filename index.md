@@ -4,7 +4,7 @@ title: Anne Sophie Lassen
 description: Anne Sophie Lassen is PhD Fellow at Copenhagen Business School.
 keywords: econ, gender, Lassen
 ---
-#### 
+
 <div class="container">
 <h4></h4>
 
