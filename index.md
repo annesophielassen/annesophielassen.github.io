@@ -14,7 +14,8 @@ keywords: econ, gender, Lassen
 
 
             Email: assl.eco@cbs.dk<br/>
-	Twitter: @AnSoLassen<br/>
+	Twitter: <a href="https://twitter.com/AnSoLassen" target="_blank">@AnSoLassen</a>
+@AnSoLassen<br/>
         </div>
 
         <div class="span3">
