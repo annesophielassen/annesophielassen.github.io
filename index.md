@@ -13,7 +13,7 @@ keywords: econ, gender, Lassen
 	Copenhagen Business School<br/>
 
 
-            Email: assl.eco@cbs.dk<br/>
+            Email: <a href="mailto:assl.eco@cbs.dk">assl.eco@cbs.dk</a><br/>
 	Twitter: <a href="https://twitter.com/AnSoLassen" target="_blank">@AnSoLassen</a><br/>
         </div>
 
@@ -33,9 +33,9 @@ My research is primarily concerned with gender inequality, incl. gender differen
 This means my work is placed within the intersection of labour, family and 
 public economics. 
 
-Before starting my PhD studies, I was a RA for Tom Kirchmaier and <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-accounting/staff/nwnacc/">Niels Westergaard-Nielsen</a>. 
-I hold a MSc 
-and BSc in Economics (cand.polit) from University of Copenhagen.
+Before starting my PhD studies, I was a RA for <a href="https://sites.google.com/site/tomkirchmaier/home"> Tom Kirchmaier</a> and <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-accounting/staff/nwnacc/">Niels Westergaard-Nielsen</a>. 
+I hold a BSc 
+and MSc in Economics (cand.polit) from <a href="https://www.ku.dk/english/"> University of Copenhagen </a>.
 
 ---
 
