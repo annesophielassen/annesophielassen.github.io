@@ -2,7 +2,7 @@
 layout: frontpage
 title: Anne Sophie Lassen
 description: Anne Sophie Lassen is PhD Fellow at Copenhagen Business School.
-keywords: econ, gender, Lassen
+keywords: econ, gender, Anne Sophie Lassen, Copenhagen Business School, Economics
 ---
 
 <div class="container">
@@ -16,7 +16,7 @@ I am a PhD Fellow at the <a href="https://www.cbs.dk/en/research/departments-and
 My research is primarily concerned with the origin and implications of gender differences in labor market choices. 
 This means my work is placed within the intersection of labor, household, gender and public economics. <br/>
 <br> 
-Before starting my PhD studies, I was a RA for <a href="https://sites.google.com/site/tomkirchmaier/home"> Tom Kirchmaier</a> and <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-accounting/staff/nwnacc/">Niels Westergaard-Nielsen</a>. 
+Before starting my PhD studies, I was an RA for <a href="https://sites.google.com/site/tomkirchmaier/home"> Tom Kirchmaier</a> and <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-accounting/staff/nwnacc/">Niels Westergaard-Nielsen</a>. 
 I hold a BSc and a MSc in <a href="https://www.economics.ku.dk/"> Economics</a> (cand.polit) from <a href="https://www.ku.dk/english/"> University of Copenhagen</a>. <br/>
 <br>
 <br>
@@ -25,7 +25,7 @@ I hold a BSc and a MSc in <a href="https://www.economics.ku.dk/"> Economics</a> 
 	Twitter: <a href="https://twitter.com/AnSoLassen" target="_blank">@AnSoLassen</a><br/>
         </div>
 
-        <div class="span3">
+        <div class="span2">
         <a href="../assets/headshot_long.jpg">
             <img src="../assets/headshot_long.jpg"
                   title="AnneSophieLassen" alt="Lassen"/></a>
