@@ -6,7 +6,7 @@ keywords: econ, gender, Lassen
 ---
 #### Anne Sophie Lassen
 <div class="container">
-<h4><a name="Contact">Anne Sophie Lassen</a></h4>
+<h4></h4>
 
     <div class="row-fluid">
         <div class="span4">
