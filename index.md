@@ -11,10 +11,10 @@ keywords: econ, gender, Lassen
     <div class="row-fluid">
         <div class="span6">
 I am a PhD Fellow at <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/">Department of Economics</a> at <a href="https://www.cbs.dk/en/">Copenhagen Business School</a>.<br/>
-
+<br/> <br/>
 My research is primarily concerned with gender inequality, incl. gender differences in labor market choices and implications of this. <br/>
 This means my work is placed within the intersection of labour, family and public economics. <br/>
-
+<br> <br>
 Before starting my PhD studies, I was a RA for <a href="https://sites.google.com/site/tomkirchmaier/home"> Tom Kirchmaier</a> and <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-accounting/staff/nwnacc/">Niels Westergaard-Nielsen</a>. <br/>
 I hold a BSc and MSc in <a href="https://www.economics.ku.dk/"> Economics</a> (cand.polit) from <a href="https://www.ku.dk/english/"> University of Copenhagen </a>. <br/>
 
