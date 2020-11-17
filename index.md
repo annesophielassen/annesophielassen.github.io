@@ -6,10 +6,16 @@ keywords: econ, gender, Lassen
 ---
 
 <div class="container">
-<h4></h4>
+<h4>
+</a>.
+</h4>
 
     <div class="row-fluid">
-        <div class="span4">
+        <div class="span5">
+I am a PhD Fellow at <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/">Department of Economics</a> at <a href="https://www.cbs.dk/en/">Copenhagen Business School</a>. </br>
+
+My research is primarily concerned with gender inequality, incl. gender differences in labor market choices and implications of this. </br>
+This means my work is placed within the intersection of labour, family and public economics. </br>
             PhD Fellow in Economics<br/>
 	Copenhagen Business School<br/>
 
