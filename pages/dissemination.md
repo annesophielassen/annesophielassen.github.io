@@ -4,7 +4,7 @@ title: Dissemination
 description: Anne Sophie Lassen's research
 ---
 #### Teaching
-##### <u>TA in Microeconomics (2020)</u> 
+##### <u><a href="https://kursuskatalog.cbs.dk/2019-2020/BA-BISHO1006U.aspx"> Microeconomics</a>TA in Microeconomics (2020)</u> 
 Bachelor in International Business, and Bachelor Business Economics and Shipping
 
 

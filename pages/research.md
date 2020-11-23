@@ -15,7 +15,7 @@ This is consistent with the notion of pay-off from gender identity. Subsequent p
 
 #### Work in Progress
 ##### <u>Job Loss, Divorce and Domestic Violence: Evidence from Denmark</u> 
-(joint work with Ria Ivandic and Tom Kirchmaier)
+(joint work with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> and <a href="https://sites.google.com/site/tomkirchmaier/home"> Tom Kirchmaier</a>)
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
