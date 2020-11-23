@@ -19,6 +19,9 @@ This means my work is placed within the intersection of labor, household, gender
 Before starting my PhD studies, I was an RA for <a href="https://sites.google.com/site/tomkirchmaier/home"> Tom Kirchmaier</a> and <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-accounting/staff/nwnacc/">Niels Westergaard-Nielsen</a>. 
 I hold a BSc and a MSc in <a href="https://www.economics.ku.dk/"> Economics</a> (cand.polit) from <a href="https://www.ku.dk/english/"> University of Copenhagen</a>. <br/>
 <br>
+On this website  you can read about my <a href="https://annesophielassen.github.io/pages/research.html"> Research</a>, <a href="https://annesophielassen.github.io/pages/dissemination.html"> Teaching</a> and find my <a href="https://annesophielassen.github.io/assets/CV.pdf"> CV</a>. 
+
+
 <br>
 
             Email: <a href="mailto:assl.eco@cbs.dk">assl.eco@cbs.dk</a><br/>
