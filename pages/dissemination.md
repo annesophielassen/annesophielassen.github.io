@@ -8,16 +8,16 @@ description: Anne Sophie Lassen's dissemination incl teaching and media
 Bachelor in International Business, and Bachelor Business Economics and Shipping
 
 
-##### <u> <a href="https://www.cbs.dk/efteruddannelse/masteruddannelser/master-of-business-development/fag-forloeb/risk-management-and-compliance"> Risk Managment and Compliance</a> (2019):</u> Sessions on data management and empirics
+##### <u><a href="https://www.cbs.dk/efteruddannelse/masteruddannelser/master-of-business-development/fag-forloeb/risk-management-and-compliance"> Risk Managment and Compliance</a> (2019):</u> Sessions on data management and empirics
 Master of Business Development 
 
 
 
 #### Media (in Danish)
-#####<a href="https://www.information.dk/debat/2020/06/foraeldet-ide-boern-bedre-barsel-mor-far">Lad os sidestille mor og far</a> 
+##### <a href="https://www.information.dk/debat/2020/06/foraeldet-ide-boern-bedre-barsel-mor-far">Lad os sidestille mor og far</a> 
 10 juni 2020, Information
 
-#####<a href="https://politiken.dk/debat/debatindlaeg/art7779758/Partnervolden-er-stigende-under-coronakrisen-og-forsvinder-f%C3%B8rst-n%C3%A5r-%C3%B8konomien-bedres">Partnervolden er stigende under coronakrisen og forsvinder først, når økonomien bedres</a> 
+##### <a href="https://politiken.dk/debat/debatindlaeg/art7779758/Partnervolden-er-stigende-under-coronakrisen-og-forsvinder-f%C3%B8rst-n%C3%A5r-%C3%B8konomien-bedres">Partnervolden er stigende under coronakrisen og forsvinder først, når økonomien bedres</a> 
 Joint with Birthe Larsen
 15. maj 2020, Politiken
 
