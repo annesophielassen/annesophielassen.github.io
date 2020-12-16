@@ -1,4 +1,4 @@
----
+	---
 layout: page
 title: Research
 description: Anne Sophie Lassen's research
@@ -7,7 +7,8 @@ description: Anne Sophie Lassen's research
 ##### <u>Norms and Specialization in Household Production: Evidence from a Danish Parental Leave Reform</u>
 
 *This paper shows that decisions regarding intra-household specializations are determined by gender norms rather than standard economic incentives. To test theoretical predictions of both the standard model of intra-household time allocation and the role of gender identity, 
-social category and prescriptions, I use variation from a Danish parental leave reform. 
+social category and prescriptions, I use variation <br>
+from a Danish parental leave reform. 
 I find large effects among mothers and virtually unchanged behavior among fathers, irrespective of relative earnings in the household. This is consistent with the notion of pay-off from gender
 identity. Subsequently, I find peer effects among sisters and interpret this as reform-induced prescriptions regarding extensive leave for mothers*
 
