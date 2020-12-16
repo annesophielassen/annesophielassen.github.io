@@ -5,7 +5,8 @@ description: Anne Sophie Lassen's dissemination incl teaching and media
 ---
 #### Teaching
 ##### <u><a href="https://kursuskatalog.cbs.dk/2019-2020/BA-BISHO1006U.aspx"> Microeconomics</a>:</u> (2020) TA for Herdis Steingrimsdottir
-Bachelor in International Business, and Bachelor in Business Economics and Shipping
+Bachelor in International Business
+Bachelor in Business Economics and Shipping
 
 
 ##### <u><a href="https://www.cbs.dk/efteruddannelse/masteruddannelser/master-of-business-development/fag-forloeb/risk-management-and-compliance"> Risk Managment and Compliance</a>:</u> (2019) Sessions on data management and empirics
