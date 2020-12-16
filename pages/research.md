@@ -11,7 +11,7 @@ social category and prescriptions, I use variation <br>
 from a Danish parental leave reform. 
 I find large effects among mothers and virtually unchanged behavior <br>
 among fathers, irrespective of relative earnings in the household. This is consistent with the notion of pay-off from gender
-identity. Subsequently, I find peer effects among sisters and interpret this as reform-induced prescriptions regarding extensive leave for mothers*
+identity. Subsequently, I find peer effects among sisters and interpret this as reform-induced prescriptions regarding extensive leave for mothers.*
 
 [Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/WP_GenderNorms_Lassen.pdf) (December 2020)
 
