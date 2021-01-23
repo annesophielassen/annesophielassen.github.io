@@ -17,8 +17,11 @@ identity. Subsequently, I find peer effects among sisters and interpret this as 
 
 
 #### Work in Progress
-##### <u>Job Loss, Couple Dynamics and Domestic Violence: Evidence from Denmark</u> 
+##### <u>Marriage Market Adjustments to Labor Market Shocks: Evidence from Denmark</u> 
 (joint work with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> and <a href="https://sites.google.com/site/tomkirchmaier/home"> Tom Kirchmaier</a>)
+<br>
+##### <u>Gender Norms and Self-Insurance within the Household</u>
+(joint work with  <a href="https://sites.google.com/view/alexiadelfino"> Alexia Delfino</a> and <a href="https://www.giuliagiupponi.com/"> Giulia Giupponi</a>)
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
