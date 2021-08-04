@@ -16,8 +16,14 @@ Master of Business Development
 
 
 #### Media (in Danish)
+##### <u><a href="https://www.femina.dk/agenda/samfund/forvandler-du-dig-til-en-husmor-naar-du-arbejder-hjemme">Forvandler du dig til en husmor, når du arbejder hjemme?</a></u>
+###### *16. juni 2021, Femina.dk*
+
+##### <u><a href="https://www.raeson.dk/2021/oekonomer-paa-cbs-regeringen-staar-lige-nu-med-en-unik-mulighed-den-kan-tage-syvmileskridt-paa-ligestillingsomraadet-ved-at-indfoere-14-ugers-oeremaerket-barsel-til-hver-foraelder/">Økonomer på CBS: Regeringen står lige nu med en unik mulighed. Den kan tage syvmileskridt på ligestillingsområdet ved at indføre 14 ugers øremærket barsel til hver forælder</a></u>, Joint with Birthe Larsen
+###### *28. maj 2021, Ræson*
+
 ##### <u><a href="https://www.information.dk/debat/2020/06/foraeldet-ide-boern-bedre-barsel-mor-far">Lad os sidestille mor og far</a></u>
-###### *10 juni 2020, Information*
+###### *10. juni 2020, Information*
 
 ##### <u><a href="https://politiken.dk/debat/debatindlaeg/art7779758/Partnervolden-er-stigende-under-coronakrisen-og-forsvinder-f%C3%B8rst-n%C3%A5r-%C3%B8konomien-bedres">Partnervolden er stigende under coronakrisen og forsvinder først, når økonomien bedres</a></u>, Joint with Birthe Larsen
 ###### *15. maj 2020, Politiken*
