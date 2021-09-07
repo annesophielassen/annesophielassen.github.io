@@ -14,12 +14,12 @@ among fathers, irrespective of relative earnings in the household. This is consi
 identity. Subsequently, I find peer effects among sisters and interpret this as reform-induced prescriptions regarding extensive leave for mothers.*
 
 [Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/WP_GenderNorms_Lassen.pdf) (December 2020)
-
+<br>
 
 #### Work in Progress
 #### <u>Parent's Specialization: Causes and Consequences</u>
-(joint work with <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a> and <a href="https://sites.google.com/site/philrosenbaum/" Philip Rosenbaum)</a> <br>
-Funded by <a href="https://dff.dk/en/front-page?set_language=en"> The Independent Research Fund Denmark</a>, projekt description <a href="https://www.cbs.dk/en/research/cbs-research-projects/research-projects-overview/c1a84080-6b6e-48c9-9d05-c0b099d73e06" here</a>. 
+(joint work with <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a> and <a href="https://sites.google.com/site/philrosenbaum/"> Philip Rosenbaum)</a> <br>
+Funded by <a href="https://dff.dk/en/front-page?set_language=en"> The Independent Research Fund Denmark</a>, projekt description <a href="https://www.cbs.dk/en/research/cbs-research-projects/research-projects-overview/c1a84080-6b6e-48c9-9d05-c0b099d73e06"> here</a>. 
 	
 ##### <u>Marriage Market Adjustments to Labor Market Shocks: Evidence from Denmark</u> 
 (joint work with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> and <a href="https://sites.google.com/site/tomkirchmaier/home"> Tom Kirchmaier</a>)
