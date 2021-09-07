@@ -17,7 +17,7 @@ identity. Subsequently, I find peer effects among sisters and interpret this as 
 <br>
 
 #### Work in Progress
-##### <u>Parent's Specialization: Causes and Consequences</u>
+##### <u>Parents' Specialization: Causes and Consequences</u>
 (joint work with <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a> and <a href="https://sites.google.com/site/philrosenbaum/"> Philip Rosenbaum)</a> <br>
 Funded by <a href="https://dff.dk/en/front-page?set_language=en"> The Independent Research Fund Denmark</a>, projekt description <a href="https://www.cbs.dk/en/research/cbs-research-projects/research-projects-overview/c1a84080-6b6e-48c9-9d05-c0b099d73e06"> here</a>. 
 	
