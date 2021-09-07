@@ -14,7 +14,7 @@ among fathers, irrespective of relative earnings in the household. This is consi
 identity. Subsequently, I find peer effects among sisters and interpret this as reform-induced prescriptions regarding extensive leave for mothers.*
 
 [Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/WP_GenderNorms_Lassen.pdf) (December 2020)
-<br></br>
+<br>
 
 #### Work in Progress
 ##### <u>Parent's Specialization: Causes and Consequences</u>
