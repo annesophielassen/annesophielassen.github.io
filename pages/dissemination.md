@@ -16,6 +16,9 @@ Master of Business Development
 
 
 #### Media (in Danish)
+##### <u><a href="https://www.information.dk/debat/2021/10/emma-holten-opdaget-feministisk-moderne-oekonomi-kan-vaere">Emma Holten har ikke opdaget, hvor feministisk moderne økonomi kan være</a></u>, Joint with Sofie Dalum
+###### *14. oktober 2021, Information*
+
 ##### <u><a href="https://www.femina.dk/agenda/samfund/forvandler-du-dig-til-en-husmor-naar-du-arbejder-hjemme">Forvandler du dig til en husmor, når du arbejder hjemme?</a></u>
 ###### *16. juni 2021, Femina.dk*
 
