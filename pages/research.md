@@ -16,6 +16,11 @@ identity. Subsequently, I find peer effects among sisters and interpret this as 
 [Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/WP_GenderNorms_Lassen.pdf) (December 2020)
 <br>
 
+#### Published Work
+##### <u>Maternity Leave and Paternity Leave: Evidence on the Economic Impact of Legislative Chances in High Income Countries</u>
+[Pre-print]({{ BASE_PATH}}/pages/working_papers/Leave_Litreview_IZA_DP.pdf) (Forthcoming, Oxford Research Encyclopedias)
+<br> 
+
 #### Work in Progress
 ##### <u>Parents' Specialization: Causes and Consequences</u>
 (joint work with <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a> and <a href="https://sites.google.com/site/philrosenbaum/"> Philip Rosenbaum)</a> <br>
