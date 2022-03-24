@@ -17,22 +17,28 @@ identity. Subsequently, I find peer effects among sisters and interpret this as 
 <br>
 <br>
 #### Published Work
-##### <u>Maternity Leave and Paternity Leave: Evidence on the Economic Impact of Legislative Chances in High Income Countries</u>
+##### <u>Maternity Leave and Paternity Leave: Evidence on the Economic Impact of Legislative Changes in High Income Countries</u>
 (joint work with <a href="https://sites.google.com/site/serenacanaan87/home"> Serena Canaan</a>, <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a> and <a href="https://sites.google.com/site/philrosenbaum/"> Philip Rosenbaum)</a> <br>
-[Pre-print]({{ BASE_PATH}}/pages/working_papers/Leave_Litreview_IZA_DP.pdf) (Forthcoming, <a href="https://oxfordre.com/economics/"> Oxford Research Encyclopedias</a>)
+[Available as IZA DP No. 15129]({{ BASE_PATH}}/pages/working_papers/Leave_Litreview_IZA_DP.pdf) (Forthcoming, <a href="https://oxfordre.com/economics/"> Oxford Research Encyclopedias</a>)
 <br> 
 <br>
 
 #### Work in Progress
+##### <u>Gender Gaps from Labor Market Shocks</u>
+
+*While a large literature has established that job loss leads to persistent adverse labor market outcomes, assessments of gender differences in labor market recovery are scarce. We utilize plant closures in Denmark to address gender gaps in labor market outcomes following
+job displacement and document that women face an increased risk of unemployment. Gender gaps are the largest among disadvantaged groups and when children are present in the household. We compare the relative importance of human capital and childcare responsibility and show that children impose a barrier for women's labor market recovery regardless of individual characteristics. Selection into different firms and occupations across genders plays a very minor role.
+(joint work with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a>, draft available upon request)
+<br>
+
 ##### <u>Parents' Specialization: Causes and Consequences</u>
 (joint work with <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a> and <a href="https://sites.google.com/site/philrosenbaum/"> Philip Rosenbaum)</a> <br>
-Funded by <a href="https://dff.dk/en/front-page?set_language=en"> The Independent Research Fund Denmark</a>, projekt description <a href="https://www.cbs.dk/en/research/cbs-research-projects/research-projects-overview/c1a84080-6b6e-48c9-9d05-c0b099d73e06"> here</a>. 
+Funded by <a href="https://dff.dk/en/front-page?set_language=en"> The Independent Research Fund Denmark</a>, project description <a href="https://www.cbs.dk/en/research/cbs-research-projects/research-projects-overview/c1a84080-6b6e-48c9-9d05-c0b099d73e06"> here</a>. 
 	
-##### <u>Marriage Market Adjustments to Labor Market Shocks: Evidence from Denmark</u> 
+##### <u>Job Loss and Conflict in the Household</u> 
 (joint work with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> and <a href="https://sites.google.com/site/tomkirchmaier/home"> Tom Kirchmaier</a>)
 <br>
-##### <u>Gender Norms and Self-Insurance within the Household</u>
-(joint work with  <a href="https://sites.google.com/view/alexiadelfino"> Alexia Delfino</a> and <a href="https://www.giuliagiupponi.com/"> Giulia Giupponi</a>)
+##### <u>Transmission of Masculinity</u>
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
