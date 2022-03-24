@@ -27,8 +27,8 @@ identity. Subsequently, I find peer effects among sisters and interpret this as 
 ##### <u>Gender Gaps from Labor Market Shocks</u>
 
 *While a large literature has established that job loss leads to persistent adverse labor market outcomes, assessments of gender differences in labor market recovery are scarce. We utilize plant closures in Denmark to address gender gaps in labor market outcomes following
-job displacement and document that women face an increased risk of unemployment. Gender gaps are the largest among disadvantaged groups and when children are present in the household. We compare the relative importance of human capital and childcare responsibility and show that children impose a barrier for women's labor market recovery regardless of individual characteristics. Selection into different firms and occupations across genders plays a very minor role.
-(joint work with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a>, draft available upon request)
+job displacement and document that women face an increased risk of unemployment. Gender gaps are the largest among disadvantaged groups and when children are present in the household. We compare the relative importance of human capital and childcare responsibility and show that children impose a barrier for women's labor market recovery regardless of individual characteristics. Selection into different firms and occupations across genders plays a very minor role.*
+<br>(joint work with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a>, draft available upon request)
 <br>
 
 ##### <u>Parents' Specialization: Causes and Consequences</u>
