@@ -16,8 +16,8 @@ Master of Business Development
 
 
 #### Media (in Danish)
-##### <u><a href="https://www.information.dk/moti/2022/07/oeremaerkede-barsel-faedre-realitet-uden-ordentlig-diskussion-faedres-rolle">Den øremærkede barsel til fædre bliver en realitet uden en ordentlig diskussion af fædres rolle</a></u>, Joint with Sofie Dalum
-###### *14. oktober 2021, Information*
+##### <u><a href="https://www.information.dk/moti/2022/07/oeremaerkede-barsel-faedre-realitet-uden-ordentlig-diskussion-faedres-rolle">Den øremærkede barsel til fædre bliver en realitet uden en ordentlig diskussion af fædres rolle</a></u>
+###### *30. julu 2022, Information*
 
 ##### <u><a href="https://www.information.dk/debat/2021/10/emma-holten-opdaget-feministisk-moderne-oekonomi-kan-vaere">Emma Holten har ikke opdaget, hvor feministisk moderne økonomi kan være</a></u>, Joint with Sofie Dalum
 ###### *14. oktober 2021, Information*
