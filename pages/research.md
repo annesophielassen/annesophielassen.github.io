@@ -6,14 +6,11 @@ description: Anne Sophie Lassen's research
 #### Working Papers
 ##### <u>Norms and Specialization in Household Production: Evidence from a Danish Parental Leave Reform</u>
 
-*This paper shows that decisions regarding intra-household specializations are determined by gender norms rather than standard economic incentives. To test theoretical predictions of both the standard model of intra-household time allocation and the role of gender identity, 
-social category and prescriptions, I use variation <br>
-from a Danish parental leave reform. 
-I find large effects among mothers and virtually unchanged behavior <br>
-among fathers, irrespective of relative earnings in the household. This is consistent with the notion of pay-off from gender
-identity. Subsequently, I find peer effects among sisters and interpret this as reform-induced prescriptions regarding extensive leave for mothers.*
+*The arrival of children implies a sharp reduction in mothers’ earnings and labor supply while fathers’ labor market trajectories are unaffected. To understand this specialization, I exploit a Danish parental leave reform. Upon reform implementation,
+mothers increase their leave by 5 weeks while the average leave duration of fathers remains unchanged, irrespectively of relative earnings. Consistent with the role of gender identity, women who had a working mother take a shorter leave than those with a stayat-home mother. Moreover, I document peer effects among sisters who take a longer
+leave if exposed to the reform-induced change in leave duration.*
 
-[Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/WP_GenderNorms_Lassen.pdf) (December 2020)
+[Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/WP_GenderNorms_Lassen.pdf) (May 2022)
 <br>
 <br>
 #### Peer-reviewed Publications
@@ -26,9 +23,13 @@ identity. Subsequently, I find peer effects among sisters and interpret this as 
 #### Work in Progress
 ##### <u>Gender Gaps from Labor Market Shocks</u>
 
-*While a large literature has established that job loss leads to persistent adverse labor market outcomes, assessments of gender differences in labor market recovery are scarce. We utilize plant closures in Denmark to address gender gaps in labor market outcomes following
-job displacement and document that women face an increased risk of unemployment. Gender gaps are the largest among disadvantaged groups and when children are present in the household. We compare the relative importance of human capital and childcare responsibility and show that children impose a barrier for women's labor market recovery regardless of individual characteristics. Selection into different firms and occupations across genders plays a very minor role.*
-<br>(joint work with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a>, draft available upon request)
+*Job loss leads to persistent adverse labor market outcomes, but assessments of gender differences in labor market recovery are lacking. We utilize plant closures in Denmark to estimate
+gender gaps in labor market outcomes and document that women face an increased risk of unemployment in the two years following job displacement. We decompose the gender gap and
+show that human capital explains half of women’s increased risk of unemployment. In addition, childcare imposes an important barrier for women’s labor market recovery regardless of
+individual characteristics. Gender differences in sorting across occupations and sectors prior to displacement play a very minor role.*
+<br>(joint work with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a>
+
+[Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/WP_job_loss_gender_gaps.pdf) (August 2022) 
 <br>
 
 ##### <u>Parents' Specialization: Causes and Consequences</u>
@@ -36,7 +37,8 @@ job displacement and document that women face an increased risk of unemployment.
 Funded by <a href="https://dff.dk/en/front-page?set_language=en"> The Independent Research Fund Denmark</a>, project description <a href="https://www.cbs.dk/en/research/cbs-research-projects/research-projects-overview/c1a84080-6b6e-48c9-9d05-c0b099d73e06"> here</a>. 
 	
 ##### <u>Fertility and Promotions: Academic Careers of Economists over 40 years in Denmark</u> 
-(joint work with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a>, funded by <a href="https://www.eeassoc.org/career-structures-economics">EEA</a>)
+(joint work with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a>)
+Funded by the<a href="https://www.eeassoc.org/career-structures-economics">European Economic Association</a>.
 <br>
 ##### <u>Intergenerational Tranmission of Gender Segregation</u> 
 
