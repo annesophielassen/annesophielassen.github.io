@@ -27,7 +27,7 @@ leave if exposed to the reform-induced change in leave duration.*
 gender gaps in labor market outcomes and document that women face an increased risk of unemployment in the two years following job displacement. We decompose the gender gap and
 show that human capital explains half of women’s increased risk of unemployment. In addition, childcare imposes an important barrier for women’s labor market recovery regardless of
 individual characteristics. Gender differences in sorting across occupations and sectors prior to displacement play a very minor role.*
-<br>(joint work with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a>
+<br>(joint work with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a>)
 
 [Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/WP_job_loss_gender_gaps.pdf) (August 2022) 
 <br>
@@ -38,7 +38,7 @@ Funded by <a href="https://dff.dk/en/front-page?set_language=en"> The Independen
 	
 ##### <u>Fertility and Promotions: Academic Careers of Economists over 40 years in Denmark</u> 
 (joint work with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a>)
-Funded by the<a href="https://www.eeassoc.org/career-structures-economics">European Economic Association</a>.
+Funded by the <a href="https://www.eeassoc.org/career-structures-economics">European Economic Association</a>.
 <br>
 ##### <u>Intergenerational Tranmission of Gender Segregation</u> 
 

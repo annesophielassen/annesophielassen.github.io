@@ -21,10 +21,9 @@ I hold a BSc and a MSc in <a href="https://www.economics.ku.dk/"> Economics</a> 
 <br>
 On this website  you can read about my <a href="https://annesophielassen.github.io/pages/research.html"> research</a>, and <a href="https://annesophielassen.github.io/pages/dissemination.html"> teaching,</a> and find my <a href="https://annesophielassen.github.io/assets/CV.pdf"> CV</a>. 
 <br>
-I work hard to bring my research findings and general knowledge on gender inequality to the attention of a wider audicence. For example, I've written op-eds in <a href="https://www.information.dk/anne-sophie-lassen"> Information</a> and appeared on Danish radio <a href="https://www.dr.dk/lyd/p1/orientering/orientering-2022-08-02"> P1 Orientering</a> as an expert on parental leave.  
-I also work hard to bring my research findings to the attention of a wider audience
+I work hard to bring my research findings and general knowledge on gender inequality to the attention of a wider audicence. For example, I've written columns in <a href="https://www.information.dk/anne-sophie-lassen"> Information</a> and appeared on Danish radio <a href="https://www.dr.dk/lyd/p1/orientering/orientering-2022-08-02"> P1 Orientering</a> as an expert on parental leave.  
 <br>
-You can contact me on <a href="mailto:assl.eco@cbs.dk">assl.eco@cbs.dk</a> or follow me on <a href="https://twitter.com/AnSoLassen" target="_blank">Twitter</a>.<br/>
+You can contact me on <a href="mailto:assl.eco@cbs.dk">assl.eco@cbs.dk</a> or follow me on Twitter <a href="https://twitter.com/AnSoLassen" target="_blank">@AnSoLassen</a>.<br/>
         </div>
 
         <div class="span2">
