@@ -33,11 +33,11 @@ with <a href="https://sites.google.com/site/serenacanaan87/home"> Serena Canaan<
 
 ##### <u>Parents' Specialization: Causes and Consequences</u>
 with <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a> and <a href="https://sites.google.com/site/philrosenbaum/"> Philip Rosenbaum</a> <br>
-Funded by <a href="https://dff.dk/en/front-page?set_language=en"> The Independent Research Fund Denmark</a>, project description <a href="https://www.cbs.dk/en/research/cbs-research-projects/research-projects-overview/c1a84080-6b6e-48c9-9d05-c0b099d73e06"> here</a>. 
+Funded by <a href="https://dff.dk/en/front-page?set_language=en"> The Independent Research Fund Denmark</a>, project description <a href="https://www.cbs.dk/en/research/cbs-research-projects/research-projects-overview/c1a84080-6b6e-48c9-9d05-c0b099d73e06"> here</a>
 	
 ##### <u>Fertility and Promotions: Academic Careers of Economists over 40 years in Denmark</u> 
 with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> <br>
-Funded by the <a href="https://www.eeassoc.org/career-structures-economics">European Economic Association</a>.
+Funded by the <a href="https://www.eeassoc.org/career-structures-economics">European Economic Association</a>
 <br>
 ##### <u>Intergenerational Tranmission of Gender Segregation</u> 
 
