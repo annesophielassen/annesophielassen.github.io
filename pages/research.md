@@ -35,10 +35,10 @@ job displacement and document that women face an increased risk of unemployment.
 (joint work with <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a> and <a href="https://sites.google.com/site/philrosenbaum/"> Philip Rosenbaum)</a> <br>
 Funded by <a href="https://dff.dk/en/front-page?set_language=en"> The Independent Research Fund Denmark</a>, project description <a href="https://www.cbs.dk/en/research/cbs-research-projects/research-projects-overview/c1a84080-6b6e-48c9-9d05-c0b099d73e06"> here</a>. 
 	
-##### <u>Job Loss and Conflict in the Household</u> 
-(joint work with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> and <a href="https://sites.google.com/site/tomkirchmaier/home"> Tom Kirchmaier</a>)
+##### <u>Fertility and Promotions: Academic Careers of Economists over 40 years in Denmark</u> 
+(joint work with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a>, funded by <a href="https://www.eeassoc.org/career-structures-economics">EEA</a>)
 <br>
-##### <u>Transmission of Masculinity</u>
+##### <u>Intergenerational Tranmission of Gender Segregation</u> 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
