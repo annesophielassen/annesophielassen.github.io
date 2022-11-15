@@ -21,7 +21,7 @@ individual characteristics. Gender differences in sorting across occupations and
 
 [Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/WP_job_loss_gender_gaps.pdf) (August 2022) 
 <br>
-##### <u>Intergenerational Tranmission of Gender Segregation</u> 
+##### <u>Intergenerational Transmission of Gender Segregation</u> 
 Many western economies have seen a fall in the employment share of the traditionally male-dominated, manufacturing sector, while demand is increasing in female-dominated jobs. 
 Still, men appear reluctant to enter these occupations. To understand persistent labor market segregation, I exploit within-school-across-cohort variation in the gender composition
 of the occupations of schoolmates' parents, and document that gender segregation is transmitted from one generation to the next. Boys who were exposed to gender-stereotypical 
@@ -42,7 +42,7 @@ with <a href="https://sites.google.com/site/serenacanaan87/home"> Serena Canaan<
 #### Work in Progress
 
 ##### <u>Does Earmarked Paternity Leave Shape Gender Norms?</u>
-with <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a> and <a href="https://sites.google.com/site/philrosenbaum/"> Philip Rosenbaum</a> <br>
+with <a href="https://www.henrikkleven.com/">Henrik Kleven</a>, <a href="https://app.scholarsite.io/camille-landais">Camille Landais</a>, <a href="https://sites.google.com/site/philrosenbaum/"> Philip Rosenbaum</a>, <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a>, and <a href="https://jakobsogaard.com/">Jakob Søgard</a>.
 	
 ##### <u>Fertility and Promotions: Academic Careers of Economists over 40 years in Denmark</u> 
 with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> <br>
