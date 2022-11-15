@@ -16,6 +16,9 @@ Master of Business Development
 
 
 #### Media (in Danish)
+##### <u> <a href="https://www.information.dk/moti/2022/09/store-milliardbeloeb-naeppe-loese-sygeplejerskemanglen">Selv store milliardbeløb vil næppe løse sygeplejerskemanglen</a></u>
+###### *1. oktober 2022, Information*
+
 ##### <u><a href="https://www.information.dk/moti/2022/07/oeremaerkede-barsel-faedre-realitet-uden-ordentlig-diskussion-faedres-rolle">Den øremærkede barsel til fædre bliver en realitet uden en ordentlig diskussion af fædres rolle</a></u>
 ###### *30. juli 2022, Information*
 
