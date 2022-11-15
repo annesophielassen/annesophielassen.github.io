@@ -10,7 +10,7 @@ description: Anne Sophie Lassen's research
 mothers increase their leave by 5 weeks while the average leave duration of fathers remains unchanged, irrespectively of relative earnings. Consistent with the role of gender identity, women who had a working mother take a shorter leave than those with a stayat-home mother. Moreover, I document peer effects among sisters who take a longer
 leave if exposed to the reform-induced change in leave duration.*
 
-[Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/WP_GenderNorms_Lassen.pdf) (May 2022)
+[Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/WP_GenderNorms_Lassen.pdf) (October 2022)
 <br>
 ##### <u>Gender Gaps from Labor Market Shocks</u>
 with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> <br>
@@ -19,7 +19,7 @@ gender gaps in labor market outcomes and document that women face an increased r
 show that human capital explains half of women’s increased risk of unemployment. In addition, childcare imposes an important barrier for women’s labor market recovery regardless of
 individual characteristics. Gender differences in sorting across occupations and sectors prior to displacement play a very minor role.*
 
-[Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/WP_job_loss_gender_gaps.pdf) (August 2022) 
+[Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/WP_job_loss_gender_gaps.pdf) (November 2022) 
 <br>
 ##### <u>Intergenerational Transmission of Gender Segregation</u> 
 *Many western economies have seen a fall in the employment share of the traditionally male-dominated, manufacturing sector, while demand is increasing in female-dominated jobs. 
