@@ -22,12 +22,12 @@ individual characteristics. Gender differences in sorting across occupations and
 [Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/WP_job_loss_gender_gaps.pdf) (August 2022) 
 <br>
 ##### <u>Intergenerational Transmission of Gender Segregation</u> 
-Many western economies have seen a fall in the employment share of the traditionally male-dominated, manufacturing sector, while demand is increasing in female-dominated jobs. 
+*Many western economies have seen a fall in the employment share of the traditionally male-dominated, manufacturing sector, while demand is increasing in female-dominated jobs. 
 Still, men appear reluctant to enter these occupations. To understand persistent labor market segregation, I exploit within-school-across-cohort variation in the gender composition
 of the occupations of schoolmates' parents, and document that gender segregation is transmitted from one generation to the next. Boys who were exposed to gender-stereotypical 
 male role models enter male-dominated occupations, while those socialized in cohorts with peers whose fathers worked alongside women enter occupations with more women. This effect 
 goes beyond the influence of their father. In general, mothers' labor market behavior has negligible effects on boys. In contrast, girls are mainly influenced by female role models, 
-and compared to boys the effects are much smaller. However, when a larger share of mothers works full-time, gender segregation decreases in the next generation.
+and compared to boys the effects are much smaller. However, when a larger share of mothers works full-time, gender segregation decreases in the next generation.*
 
 E-mail me for the latest version of this paper!
 <br>
