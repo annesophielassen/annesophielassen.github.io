@@ -21,6 +21,16 @@ individual characteristics. Gender differences in sorting across occupations and
 
 [Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/WP_job_loss_gender_gaps.pdf) (August 2022) 
 <br>
+##### <u>Intergenerational Tranmission of Gender Segregation</u> 
+Many western economies have seen a fall in the employment share of the traditionally male-dominated, manufacturing sector, while demand is increasing in female-dominated jobs. 
+Still, men appear reluctant to enter these occupations. To understand persistent labor market segregation, I exploit within-school-across-cohort variation in the gender composition
+of the occupations of schoolmates' parents, and document that gender segregation is transmitted from one generation to the next. Boys who were exposed to gender-stereotypical 
+male role models enter male-dominated occupations, while those socialized in cohorts with peers whose fathers worked alongside women enter occupations with more women. This effect 
+goes beyond the influence of their father. In general, mothers' labor market behavior has negligible effects on boys. In contrast, girls are mainly influenced by female role models, 
+and compared to boys the effects are much smaller. However, when a larger share of mothers works full-time, gender segregation decreases in the next generation.
+
+E-mail me for the latest version of this paper!
+<br>
 <br>
 #### Peer-reviewed Publications
 ##### <u>Maternity Leave and Paternity Leave: Evidence on the Economic Impact of Legislative Changes in High Income Countries</u>
@@ -31,15 +41,13 @@ with <a href="https://sites.google.com/site/serenacanaan87/home"> Serena Canaan<
 
 #### Work in Progress
 
-##### <u>Parents' Specialization: Causes and Consequences</u>
+##### <u>Does Earmarked Paternity Leave Shape Gender Norms?</u>
 with <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a> and <a href="https://sites.google.com/site/philrosenbaum/"> Philip Rosenbaum</a> <br>
-Funded by <a href="https://dff.dk/en/front-page?set_language=en"> The Independent Research Fund Denmark</a>, project description <a href="https://www.cbs.dk/en/research/cbs-research-projects/research-projects-overview/c1a84080-6b6e-48c9-9d05-c0b099d73e06"> here</a>
 	
 ##### <u>Fertility and Promotions: Academic Careers of Economists over 40 years in Denmark</u> 
 with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> <br>
 Funded by the <a href="https://www.eeassoc.org/career-structures-economics">European Economic Association</a>
 <br>
-##### <u>Intergenerational Tranmission of Gender Segregation</u> 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
