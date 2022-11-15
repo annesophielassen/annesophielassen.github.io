@@ -35,7 +35,7 @@ E-mail me for the latest version of this paper!
 #### Peer-reviewed Publications
 ##### <u>Maternity Leave and Paternity Leave: Evidence on the Economic Impact of Legislative Changes in High Income Countries</u>
 with <a href="https://sites.google.com/site/serenacanaan87/home"> Serena Canaan</a>, <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a> and <a href="https://sites.google.com/site/philrosenbaum/"> Philip Rosenbaum</a> <br>
-[Available as IZA DP No. 15129]({{ BASE_PATH}}/pages/working_papers/Leave_Litreview_IZA_DP.pdf) (Forthcoming, <a href="https://oxfordre.com/economics/"> Oxford Research Encyclopedias</a>)
+[Available as IZA DP No. 15129]({{ BASE_PATH}}/pages/working_papers/Leave_Litreview_IZA_DP.pdf) (Published at <a href="https://oxfordre.com/economics/view/10.1093/acrefore/9780190625979.001.0001/acrefore-9780190625979-e-806?rskey=UvlZyC"> Oxford Research Encyclopedias</a>)
 <br> 
 <br>
 
