@@ -16,6 +16,9 @@ Master of Business Development
 
 
 #### Media (in Danish)
+##### <u> <a href="https://www.information.dk/moti/2022/12/december-hoejtid-uloennet-arbejde-hvorfor-saa-ulige-fordelt-mellem-maend-kvinder">December er højtid for ulønnet arbejde</a></u>
+###### *31. december 2022, Information*
+
 ##### <u> <a href="https://www.information.dk/moti/2022/09/store-milliardbeloeb-naeppe-loese-sygeplejerskemanglen">Selv store milliardbeløb vil næppe løse sygeplejerskemanglen</a></u>
 ###### *1. oktober 2022, Information*
 
