@@ -24,7 +24,7 @@ I work hard to <a href="https://annesophielassen.github.io/pages/dissemination.h
 You can contact me on <a href="mailto:assl.eco@cbs.dk">assl.eco@cbs.dk</a> or follow me on Twitter <a href="https://twitter.com/AnSoLassen" target="_blank">@AnSoLassen</a>.<br/>
         </div>
 
-        <div class="span2">
+        <div class="span3">
 <br>
 <br>
         <a href="../assets/headshot_grey.jpg">
