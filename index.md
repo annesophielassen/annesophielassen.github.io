@@ -25,8 +25,8 @@ You can contact me on <a href="mailto:assl.eco@cbs.dk">assl.eco@cbs.dk</a> or fo
         </div>
 
         <div class="span2">
-        <a href="../assets/headshot_long.jpg">
-            <img src="../assets/headshot_long.jpg"
+        <a href="../assets/headshot_grey_long2.jpg">
+            <img src="../assets/headshot_grey_long2.jpg"
                   title="AnneSophieLassen" alt="Lassen"/></a>
         </div>
     </div>
