@@ -24,14 +24,14 @@ E-mail me for the latest version of this paper!
 <br>
 <br>
 #### Peer-reviewed Publications
-##### <u>Maternity Leave and Paternity Leave: Evidence on the Economic Impact of Legislative Changes in High Income Countries</u>
-with <a href="https://sites.google.com/site/serenacanaan87/home"> Serena Canaan</a>, <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a> and <a href="https://sites.google.com/site/philrosenbaum/"> Philip Rosenbaum</a> <br>
-Published at <a href="https://oxfordre.com/economics/view/10.1093/acrefore/9780190625979.001.0001/acrefore-9780190625979-e-806?rskey=UvlZyC"> Oxford Research Encyclopedias</a>. Also available as [IZA DP No. 15129]({{ BASE_PATH}}/pages/working_papers/Leave_Litreview_IZA_DP.pdf)
-<br> 
 ##### <u>Gender Gaps from Labor Market Shocks</u>
 with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> <br>
 Accepted at <a href="https://www.sciencedirect.com/science/article/pii/S0927537123000696"> Labour Economics</a>.
 <br> 
+##### <u>Maternity Leave and Paternity Leave: Evidence on the Economic Impact of Legislative Changes in High Income Countries</u>
+with <a href="https://sites.google.com/site/serenacanaan87/home"> Serena Canaan</a>, <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a> and <a href="https://sites.google.com/site/philrosenbaum/"> Philip Rosenbaum</a> <br>
+Published at <a href="https://oxfordre.com/economics/view/10.1093/acrefore/9780190625979.001.0001/acrefore-9780190625979-e-806?rskey=UvlZyC"> Oxford Research Encyclopedias</a>. Also available as [IZA DP No. 15129]({{ BASE_PATH}}/pages/working_papers/Leave_Litreview_IZA_DP.pdf)
+<br> 
 <br>
 
 #### Work in Progress
