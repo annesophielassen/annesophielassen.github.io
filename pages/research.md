@@ -12,15 +12,6 @@ leave if exposed to the reform-induced change in leave duration.*
 
 [Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/WP_GenderNorms_Lassen.pdf) (October 2022)
 <br>
-##### <u>Gender Gaps from Labor Market Shocks</u>
-with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> <br>
-*Job loss leads to persistent adverse labor market outcomes, but assessments of gender differences in labor market recovery are lacking. We utilize plant closures in Denmark to estimate
-gender gaps in labor market outcomes and document that women face an increased risk of unemployment in the two years following job displacement. We decompose the gender gap and
-show that human capital explains half of women’s increased risk of unemployment. In addition, childcare imposes an important barrier for women’s labor market recovery regardless of
-individual characteristics. Gender differences in sorting across occupations and sectors prior to displacement play a very minor role.*
-
-[Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/WP_job_loss_gender_gaps.pdf) (November 2022) 
-<br>
 ##### <u>Intergenerational Transmission of Gender Segregation</u> 
 *Many western economies have seen a fall in the employment share of the traditionally male-dominated, manufacturing sector, while demand is increasing in female-dominated jobs. 
 Still, men appear reluctant to enter these occupations. To understand persistent labor market segregation, I exploit within-school-across-cohort variation in the gender composition
@@ -36,6 +27,10 @@ E-mail me for the latest version of this paper!
 ##### <u>Maternity Leave and Paternity Leave: Evidence on the Economic Impact of Legislative Changes in High Income Countries</u>
 with <a href="https://sites.google.com/site/serenacanaan87/home"> Serena Canaan</a>, <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a> and <a href="https://sites.google.com/site/philrosenbaum/"> Philip Rosenbaum</a> <br>
 Published at <a href="https://oxfordre.com/economics/view/10.1093/acrefore/9780190625979.001.0001/acrefore-9780190625979-e-806?rskey=UvlZyC"> Oxford Research Encyclopedias</a>. Also available as [IZA DP No. 15129]({{ BASE_PATH}}/pages/working_papers/Leave_Litreview_IZA_DP.pdf)
+<br> 
+##### <u>Gender Gaps from Labor Market Shocks</u>
+with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> <br>
+Accepted at <a href="https://www.sciencedirect.com/science/article/pii/S0927537123000696"> Labour Economics</a>.
 <br> 
 <br>
 
