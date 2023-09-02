@@ -4,7 +4,7 @@ title: Research
 description: Anne Sophie Lassen's research
 ---
 #### Working Papers
-##### <u>Norms and Specialization in Household Production: Evidence from a Danish Parental Leave Reform</u>
+##### <u>Gender Norms and Specialization in Household Production: Evidence from a Danish Parental Leave Reform</u>
 
 *The arrival of children implies a sharp reduction in mothers’ earnings and labor supply while fathers’ labor market trajectories are unaffected. To understand this specialization, I exploit a Danish parental leave reform. Upon reform implementation,
 mothers increase their leave by 5 weeks while the average leave duration of fathers remains unchanged, irrespectively of relative earnings. Consistent with the role of gender identity, women who had a working mother take a shorter leave than those with a stayat-home mother. Moreover, I document peer effects among sisters who take a longer
