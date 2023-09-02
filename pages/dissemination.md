@@ -12,12 +12,18 @@ Bachelor in Business Economics and Shipping
 ##### <u><a href="https://www.cbs.dk/efteruddannelse/masteruddannelser/master-of-business-development/fag-forloeb/risk-management-and-compliance"> Risk Managment and Compliance</a>:</u> (2019) Sessions on data management and empirics
 Master of Business Development 
 
-<u>Supervision</u>: I supervise quantitative bachelor's and master's theses across CBS programs focusing on labor markets, inequality and diversity, broadly defined. </br>
-</br>Examples of topics are economic aid during the Covid-19 pandemic, the impact of gender diversity on boards, and diversity in recruiment. 
+<u>Supervision</u>: I supervise quantitative bachelor's and master's theses across CBS programs focusing on labor markets, inequality and diversity, broadly defined.
+Examples of topics include economic aid during the Covid-19 pandemic, the impact of gender diversity on boards, and diversity in recruiment. 
 <br>
 
 
 #### Media (in Danish)
+##### <u> <a href="https://www.information.dk/moti/2023/03/seksuel-chikane-fastholde-koensopdelt-arbejdsmarked?lst_cntrb">Seksuel chikane er med til at fastholde et kønsopdelt arbejdsmarked</a></u>
+###### *11. marts 2023, Information*
+
+##### <u> <a href="https://www.information.dk/moti/2022/12/december-hoejtid-uloennet-arbejde-hvorfor-saa-ulige-fordelt-mellem-maend-kvinder">December er højtid for ulønnet arbejde</a></u>
+###### *31. december 2022, Information*
+
 ##### <u> <a href="https://www.information.dk/moti/2022/12/december-hoejtid-uloennet-arbejde-hvorfor-saa-ulige-fordelt-mellem-maend-kvinder">December er højtid for ulønnet arbejde</a></u>
 ###### *31. december 2022, Information*
 
