@@ -26,11 +26,11 @@ E-mail me for the latest version of this paper!
 #### Peer-reviewed Publications
 ##### <u>Gender Gaps from Labor Market Shocks</u>
 with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> <br>
-Accepted at <a href="https://www.sciencedirect.com/science/article/pii/S0927537123000696"> Labour Economics</a>.
+Published in <a href="https://www.sciencedirect.com/science/article/pii/S0927537123000696"> Labour Economics</a>. Also avilable as a <a href="https://research.upjohn.org/up_workingpapers/387/"> W.E. Upjohn Working Paper</a> along with a <a href="https://research.upjohn.org/up_policybriefs/60/">non-technical summary</a>. 
 <br> 
 ##### <u>Maternity Leave and Paternity Leave: Evidence on the Economic Impact of Legislative Changes in High Income Countries</u>
 with <a href="https://sites.google.com/site/serenacanaan87/home"> Serena Canaan</a>, <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a> and <a href="https://sites.google.com/site/philrosenbaum/"> Philip Rosenbaum</a> <br>
-Published at <a href="https://oxfordre.com/economics/view/10.1093/acrefore/9780190625979.001.0001/acrefore-9780190625979-e-806?rskey=UvlZyC"> Oxford Research Encyclopedias</a>. Also available as [IZA DP No. 15129]({{ BASE_PATH}}/pages/working_papers/Leave_Litreview_IZA_DP.pdf)
+Published in <a href="https://oxfordre.com/economics/view/10.1093/acrefore/9780190625979.001.0001/acrefore-9780190625979-e-806?rskey=UvlZyC"> Oxford Research Encyclopedias</a>. Also available as [IZA DP No. 15129]({{ BASE_PATH}}/pages/working_papers/Leave_Litreview_IZA_DP.pdf)
 <br> 
 <br>
 

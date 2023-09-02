@@ -13,6 +13,7 @@ keywords: econ, gender, Anne Sophie Lassen, Copenhagen Business School, Economic
 <br/>
 I am a PostDoctoral Researcher at the <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/">Department of Economics</a> at <a href="https://www.cbs.dk/en/">Copenhagen Business School</a> where I completed my Ph.D. in economics in November 2022.<br/>
 <br/>
+In the Fall term of 2023, I will be visiting NYU's Department of Economics, hosted by Raquel Fernández.<br/>
 My research is primarily concerned with the mechanisms behind and implications of gender differences in labor market choices. 
 This means my work is placed within the intersection of labor, household, gender and public economics. <br/>
 <br>
