@@ -12,6 +12,8 @@ Bachelor in Business Economics and Shipping
 ##### <u><a href="https://www.cbs.dk/efteruddannelse/masteruddannelser/master-of-business-development/fag-forloeb/risk-management-and-compliance"> Risk Managment and Compliance</a>:</u> (2019) Sessions on data management and empirics
 Master of Business Development 
 
+<u>Supervision</u>: I supervise quantitative bachelor's and master's theses across CBS programs focusing on labor markets, inequality and diversity, broadly defined. </br>
+</br>Examples of topics are economic aid during the Covid-19 pandemic, the impact of gender diversity on boards, and diversity in recruiment. 
 <br>
 
 
