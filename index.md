@@ -37,10 +37,12 @@ You can contact me on <a href="mailto:assl.eco@cbs.dk">assl.eco@cbs.dk</a> or fo
 <br>
 I'll present our paper "Fertility and Promotion" at the <a href="https://www.aeaweb.org/conference/"> ASSA 2024 in San Antonio, Texas</a> on January 5. 
 <br>
+<br>
 Our paper <a href="https://www.sciencedirect.com/science/article/pii/S0927537123000696">Gender gaps from labor market shocks</a> is published in the August 2023 Volume of Labour Economics. 
 <br>
+<br>
 On March 8, I spoke about <a href="https://www.hk.dk/aktuelt/nyheder/2023/02/23/8-marts-om-kvinders-oekonomi-og-usynlige-opgaver">the value and distribution of unpaid labor</a> and wrote about <a href="https://www.information.dk/moti/2023/03/seksuel-chikane-fastholde-koensopdelt-arbejdsmarked?lst_cntrb">the costs of sexual harassment</a>. 
----
+
 
 
 
