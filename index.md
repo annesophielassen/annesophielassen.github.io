@@ -14,8 +14,8 @@ keywords: econ, gender, Anne Sophie Lassen, Copenhagen Business School, Economic
 I am a PostDoctoral Researcher at the <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/">Department of Economics</a> at <a href="https://www.cbs.dk/en/">Copenhagen Business School</a> where I completed my Ph.D. in economics in November 2022.<br/>
 <br>
 <br>
-My research is primarily concerned with the mechanisms behind and implications of gender differences in labor market choices. 
-This means my work is placed within the intersection of labor, household, gender and public economics. <br/>
+My research is primarily concerned with the mechanisms behind and implications of gender differences in labor market outcomes.
+This means my work is placed within the intersection of labor, household, gender, and public economics. For example, I work on the interaction between family policies, gender norms, and inequality, and gender-based violence, and segregated labor markets. <br/>
 <br>
 On this website  you can read about my <a href="https://annesophielassen.github.io/pages/research.html"> research</a>, and <a href="https://annesophielassen.github.io/pages/dissemination.html"> teaching,</a> and find my <a href="https://annesophielassen.github.io/assets/CV.pdf"> CV</a>. 
 <br>
