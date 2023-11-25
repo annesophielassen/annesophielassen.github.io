@@ -13,16 +13,19 @@ Bachelor in Business Economics and Shipping
 Master of Business Development 
 
 <u>Supervision</u>: I supervise quantitative bachelor's and master's theses across CBS programs focusing on labor markets, inequality and diversity, broadly defined.
-Examples of topics include economic aid during the Covid-19 pandemic, the impact of gender diversity on boards, and diversity in recruiment. 
+Examples of topics include economic aid during the Covid-19 pandemic, the impact of gender diversity on boards, and diversity in recruitment. 
 <br>
 
 
-#### Media (in Danish)
+#### Selected Media (in Danish)
+##### <u> <a href="https://www.information.dk/moti/2023/11/aarets-nobelprismodtager-oekonomi-vist-hvordan-graadige-job-skader-ligestillingen">Årets nobelprismodtager i økonomi har vist, hvordan ’grådige job’ skader ligestillingen</a></u>
+###### *4. november 2023, Information*
+
+##### <u> <a href="https://www.information.dk/moti/2023/09/oekonomiske-studier-viser-stor-betydning-rigide-koensnormer-kan">Økonomiske studier viser, hvor stor betydning rigide kønsnormer kan have</a></u>
+###### *16. september 2023, Information*
+
 ##### <u> <a href="https://www.information.dk/moti/2023/03/seksuel-chikane-fastholde-koensopdelt-arbejdsmarked?lst_cntrb">Seksuel chikane er med til at fastholde et kønsopdelt arbejdsmarked</a></u>
 ###### *11. marts 2023, Information*
-
-##### <u> <a href="https://www.information.dk/moti/2022/12/december-hoejtid-uloennet-arbejde-hvorfor-saa-ulige-fordelt-mellem-maend-kvinder">December er højtid for ulønnet arbejde</a></u>
-###### *31. december 2022, Information*
 
 ##### <u> <a href="https://www.information.dk/moti/2022/12/december-hoejtid-uloennet-arbejde-hvorfor-saa-ulige-fordelt-mellem-maend-kvinder">December er højtid for ulønnet arbejde</a></u>
 ###### *31. december 2022, Information*
