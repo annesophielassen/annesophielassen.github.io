@@ -12,23 +12,17 @@ I document both inter-generational spillovers from maternal labor supply and pee
 <br>
 
 ##### <u>Fertility and Promotions: Academic Careers of Economists over 40 years in Denmark</u> 
-with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> <br>
-Funded by the <a href="hhttps://www.hubequalrep.org/actions/career-structures-in-economics/">European Economic Association</a>
+with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a>. Funded by the <a href="hhttps://www.hubequalrep.org/actions/career-structures-in-economics/">European Economic Association</a>
 <br>
-*Women continue to be underrepresented in the field of economics, especially among permanent faculty. Using 40 years of Danish administrative population data combined with data on publications, we study the impact 
-of children on women’s probability of successful academic careers. This allows us to overcome survivorship bias which is common in this literature. We find no evidence or delayed or reduced fertility among researchers. 
-Event study estimates reveal that both men and women’s career trajectories are affected by parenthood and face increasing attrition from universities. Men move into the broader research sector, while women leave research completely. 
-We also find a gender gap in the promotion to tenured faculty in the three years following parenthood, while gaps in publications remain insignificant.*<br>
-[Click here for a short version of the paper (submitted to AER P&P).]({{ BASE_PATH}}/pages/working_papers/Parenthood_AcademiaPP.pdf) Longer version coming soon!
+*Women continue to be underrepresented in the field of economics, especially among permanent faculty. Using 40 years of Danish administrative population data combined with data on publications, we study the impact of children on women’s probability of successful academic careers. This allows us to overcome survivorship bias which is common in this literature. We find no evidence or delayed or reduced fertility among researchers. 
+Event study estimates reveal that both men and women’s career trajectories are affected by parenthood and face increasing attrition from universities. Men move into the broader research sector, while women leave research completely. We also find a gender gap in the promotion to tenured faculty in the three years following parenthood, while gaps in publications remain insignificant.*<br>
+[Click here for a short version of the paper]({{ BASE_PATH}}/pages/working_papers/Parenthood_AcademiaPP.pdf) (submitted to AER P&P). Longer version coming soon!
 <br>
 
 ##### <u>Intergenerational Transmission of Gender Segregation</u> 
-*Many western economies have seen a fall in the employment share of the traditionally male-dominated, manufacturing sector, while demand is increasing in female-dominated jobs. 
-Still, men appear reluctant to enter these occupations. To understand persistent labor market segregation, I exploit within-school-across-cohort variation in the gender composition
-of the occupations of schoolmates' parents, and document that gender segregation is transmitted from one generation to the next. Boys who were exposed to gender-stereotypical 
-male role models enter male-dominated occupations, while those socialized in cohorts with peers whose fathers worked alongside women enter occupations with more women. This effect 
-goes beyond the influence of their father. In general, mothers' labor market behavior has negligible effects on boys. In contrast, girls are mainly influenced by female role models, 
-and compared to boys the effects are much smaller. However, when a larger share of mothers works full-time, gender segregation decreases in the next generation.*
+*Many western economies have seen a fall in the employment share of the traditionally male-dominated, manufacturing sector, while demand is increasing in female-dominated jobs. Still, men appear reluctant to enter these occupations. To understand persistent labor market segregation, I exploit within-school-across-cohort variation in the gender composition
+of the occupations of schoolmates' parents, and document that gender segregation is transmitted from one generation to the next. Boys who were exposed to gender-stereotypical male role models enter male-dominated occupations, while those socialized in cohorts with peers whose fathers worked alongside women enter occupations with more women. This effect 
+goes beyond the influence of their father. In general, mothers' labor market behavior has negligible effects on boys. In contrast, girls are mainly influenced by female role models, and compared to boys the effects are much smaller. However, when a larger share of mothers works full-time, gender segregation decreases in the next generation.*
 
 E-mail me for the latest version of this paper!
 <br>
