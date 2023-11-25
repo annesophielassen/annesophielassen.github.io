@@ -4,12 +4,11 @@ title: Research
 description: Anne Sophie Lassen's research
 ---
 #### Working Papers
-##### <u>Gender Norms and Specialization in Household Production: Evidence from a Danish Parental Leave Reform</u>
-
-*The arrival of children implies a sharp reduction in mothers’ earnings and labor supply while fathers’ labor market trajectories are unaffected. To understand this specialization, I exploit a Danish parental leave reform. Upon reform implementation,
-mothers increase their leave by 5 weeks while the average leave duration of fathers remains unchanged, irrespectively of relative earnings. Consistent with the role of gender identity, women who had a working mother take a shorter leave than those with a stayat-home mother. Moreover, I document peer effects among sisters who take a longer
-leave if exposed to the reform-induced change in leave duration.*
-[Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/WP_GenderNorms_Lassen.pdf) 
+##### <u>Job Market Paper: Gender Norms and Specialization in Household Production: Evidence from a Danish Parental Leave Reform</u>
+*Parental leave is viewed as crucial to alleviating the gender inequalities that arise upon parenthood, but policies are often ineffective. This paper examines the impact of expanding parental leave in Denmark. The results show that mothers increase their
+leave by 5 weeks, while the average leave duration of fathers remains unchanged. In turn, the earnings gap within couples increases. Leave duration is unaffected by relative earnings, and is instead highly consistent with the role of gender norms. 
+I document both inter-generational spillovers from maternal labor supply and peer effects among sisters who take a longer leave if exposed to the reform-induced change in leave duration.*
+[Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/JMP_ParentalLeave_Lassen.pdf) 
 <br>
 
 ##### <u>Fertility and Promotions: Academic Careers of Economists over 40 years in Denmark</u> 
