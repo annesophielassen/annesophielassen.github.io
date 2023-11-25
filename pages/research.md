@@ -8,6 +8,7 @@ description: Anne Sophie Lassen's research
 *Parental leave is viewed as crucial to alleviating the gender inequalities that arise upon parenthood, but policies are often ineffective. This paper examines the impact of expanding parental leave in Denmark. The results show that mothers increase their
 leave by 5 weeks, while the average leave duration of fathers remains unchanged. In turn, the earnings gap within couples increases. Leave duration is unaffected by relative earnings, and is instead highly consistent with the role of gender norms. 
 I document both inter-generational spillovers from maternal labor supply and peer effects among sisters who take a longer leave if exposed to the reform-induced change in leave duration.*<br>
+
 [Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/JMP_ParentalLeave_Lassen.pdf) 
 <br>
 
@@ -16,6 +17,7 @@ with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a>. F
 <br>
 *Women continue to be underrepresented in the field of economics, especially among permanent faculty. Using 40 years of Danish administrative population data combined with data on publications, we study the impact of children on women’s probability of successful academic careers. This allows us to overcome survivorship bias which is common in this literature. We find no evidence or delayed or reduced fertility among researchers. 
 Event study estimates reveal that both men and women’s career trajectories are affected by parenthood and face increasing attrition from universities. Men move into the broader research sector, while women leave research completely. We also find a gender gap in the promotion to tenured faculty in the three years following parenthood, while gaps in publications remain insignificant.*<br>
+
 [Click here for a short version of the paper]({{ BASE_PATH}}/pages/working_papers/Parenthood_AcademiaPP.pdf) (submitted to AER P&P). Longer version coming soon!
 <br>
 
