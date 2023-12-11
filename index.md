@@ -36,6 +36,7 @@ You can contact me on <a href="mailto:assl.eco@cbs.dk">assl.eco@cbs.dk</a> or fo
 #### News
 <br>
 I'll present our paper "Fertility and Promotion" at the <a href="https://www.aeaweb.org/conference/"> ASSA 2024 in San Antonio, Texas</a> on January 5. 
+[A short version of the paper]({{ BASE_PATH}}/pages/working_papers/Parenthood_AcademiaPP.pdf) has been accepted to AEA Papers & Proceedings. 
 <br>
 <br>
 Our paper <a href="https://www.sciencedirect.com/science/article/pii/S0927537123000696">Gender gaps from labor market shocks</a> is published in the August 2023 Volume of Labour Economics. 
