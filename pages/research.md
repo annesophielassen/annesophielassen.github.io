@@ -3,23 +3,6 @@ layout: page
 title: Research
 description: Anne Sophie Lassen's research
 ---
-#### Working Papers
-##### <u>Gender Norms and Specialization in Household Production: Evidence from a Danish Parental Leave Reform</u>
-*Parental leave is viewed as crucial to alleviating the gender inequalities that arise upon parenthood, but policies are often ineffective. This paper examines the impact of expanding parental leave in Denmark. The results show that mothers increase their
-leave by 5 weeks, while the average leave duration of fathers remains unchanged. In turn, the earnings gap within couples increases. Leave duration is unaffected by relative earnings, and is instead highly consistent with the role of gender norms. 
-I document both inter-generational spillovers from maternal labor supply and peer effects among sisters who take a longer leave if exposed to the reform-induced change in leave duration.*<br>
-
-[Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/JMP_ParentalLeave_Lassen.pdf) 
-<br>
-
-##### <u>Intergenerational Transmission of Gender Segregation</u> 
-*Many western economies have seen a fall in the employment share of the traditionally male-dominated, manufacturing sector, while demand is increasing in female-dominated jobs. Still, men appear reluctant to enter these occupations. To understand persistent labor market segregation, I exploit within-school-across-cohort variation in the gender composition
-of the occupations of schoolmates' parents, and document that gender segregation is transmitted from one generation to the next. Boys who were exposed to gender-stereotypical male role models enter male-dominated occupations, while those socialized in cohorts with peers whose fathers worked alongside women enter occupations with more women. This effect 
-goes beyond the influence of their father. In general, mothers' labor market behavior has negligible effects on boys. In contrast, girls are mainly influenced by female role models, and compared to boys the effects are much smaller. However, when a larger share of mothers works full-time, gender segregation decreases in the next generation.*
-
-E-mail me for the latest version of this paper!
-<br>
-<br>
 #### Publications
 ##### <u> Parenthood and Academic Career Trajectories</u> with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> <br>
 Forthcoming in AEA Papers & Proceedings, 2024 <br>
@@ -33,11 +16,21 @@ Media: <a href="https://cep.lse.ac.uk/pubs/download/cp672.pdf">LSE Centrepiece</
 Published in <a href="https://oxfordre.com/economics/view/10.1093/acrefore/9780190625979.001.0001/acrefore-9780190625979-e-806?rskey=UvlZyC"> Oxford Research Encyclopedias</a>, 2022. Also available as [IZA DP No. 15129]({{BASE_PATH}}/pages/working_papers/Leave_Litreview_IZA_DP.pdf).
 <br>
 <br>
+#### Working Papers
+##### <u>Gender Norms and Specialization in Household Production: Evidence from a Danish Parental Leave Reform</u>
+*Parental leave is viewed as crucial to alleviating the gender inequalities that arise upon parenthood, but policies are often ineffective. This paper examines the impact of expanding parental leave in Denmark. The results show that mothers increase their
+leave by 5 weeks, while the average leave duration of fathers remains unchanged. In turn, the earnings gap within couples increases. Leave duration is unaffected by relative earnings, and is instead highly consistent with the role of gender norms. 
+I document both inter-generational spillovers from maternal labor supply and peer effects among sisters who take a longer leave if exposed to the reform-induced change in leave duration.*<br>
 
-#### Work in Progress
+[Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/JMP_ParentalLeave_Lassen.pdf) 
+<br>
+
+#### Research in Progress
 
 ##### <u>Does Earmarked Paternity Leave Shape Gender Norms?</u>
 with <a href="https://www.henrikkleven.com/">Henrik Kleven</a>, <a href="https://app.scholarsite.io/camille-landais">Camille Landais</a>, <a href="https://sites.google.com/site/philrosenbaum/"> Philip Rosenbaum</a>, <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a>, and <a href="https://jakobsogaard.com/">Jakob Søgaard</a>
+
+##### <u>Intergenerational Transmission of Gender Segregation</u> 
 
 ##### <u>Job Displacement, Inequality, and Domestic Violence</u>
 with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> <br>
