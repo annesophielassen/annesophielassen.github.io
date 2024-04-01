@@ -21,7 +21,6 @@ E-mail me for the latest version of this paper!
 <br>
 <br>
 #### Publications
-<br>
 ##### <u> Parenthood and Academic Career Trajectories</u> with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> <br>
 Forthcoming in AEA Papers & Proceedings, 2024 <br>
 [Click here for the pre-print version]({{ BASE_PATH}}/pages/working_papers/Parenthood_AcademiaPP.pdf) 
