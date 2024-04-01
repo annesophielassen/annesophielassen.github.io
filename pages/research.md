@@ -4,7 +4,7 @@ title: Research
 description: Anne Sophie Lassen's research
 ---
 #### Working Papers
-##### Job Market Paper: <u>Gender Norms and Specialization in Household Production: Evidence from a Danish Parental Leave Reform</u>
+##### <u>Gender Norms and Specialization in Household Production: Evidence from a Danish Parental Leave Reform</u>
 *Parental leave is viewed as crucial to alleviating the gender inequalities that arise upon parenthood, but policies are often ineffective. This paper examines the impact of expanding parental leave in Denmark. The results show that mothers increase their
 leave by 5 weeks, while the average leave duration of fathers remains unchanged. In turn, the earnings gap within couples increases. Leave duration is unaffected by relative earnings, and is instead highly consistent with the role of gender norms. 
 I document both inter-generational spillovers from maternal labor supply and peer effects among sisters who take a longer leave if exposed to the reform-induced change in leave duration.*<br>
@@ -18,8 +18,6 @@ with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a>. F
 *Women continue to be underrepresented in the field of economics, especially among permanent faculty. Using 40 years of Danish administrative population data combined with data on publications, we study the impact of children on women’s probability of successful academic careers. This allows us to overcome survivorship bias which is common in this literature. We find no evidence or delayed or reduced fertility among researchers. 
 Event study estimates reveal that both men and women’s career trajectories are affected by parenthood and face increasing attrition from universities. Men move into the broader research sector, while women leave research completely. We also find a gender gap in the promotion to tenured faculty in the three years following parenthood, while gaps in publications remain insignificant.*<br>
 
-[Click here for a short version of the paper]({{ BASE_PATH}}/pages/working_papers/Parenthood_AcademiaPP.pdf) (accepted to AEA P&P 2024). Longer version coming soon!
-<br>
 
 ##### <u>Intergenerational Transmission of Gender Segregation</u> 
 *Many western economies have seen a fall in the employment share of the traditionally male-dominated, manufacturing sector, while demand is increasing in female-dominated jobs. Still, men appear reluctant to enter these occupations. To understand persistent labor market segregation, I exploit within-school-across-cohort variation in the gender composition
@@ -29,15 +27,21 @@ goes beyond the influence of their father. In general, mothers' labor market beh
 E-mail me for the latest version of this paper!
 <br>
 <br>
-#### Peer-reviewed Publications
+#### Publications
+
+##### Parenthood and Academic Career Trajectories
+Forthcoming in AEA Papers & Proceedings, 2024
+with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> <br>
+[Click here for the pre-print version]({{ BASE_PATH}}/pages/working_papers/Parenthood_AcademiaPP.pdf) 
+<br>
 ##### <u>Gender Gaps from Labor Market Shocks</u>
 with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> <br>
-Published in <a href="https://www.sciencedirect.com/science/article/pii/S0927537123000696"> Labour Economics</a>. Also avilable as a <a href="https://research.upjohn.org/up_workingpapers/387/"> W.E. Upjohn Working Paper</a> along with a <a href="https://research.upjohn.org/up_policybriefs/60/">non-technical summary</a>. 
+Published in <a href="https://www.sciencedirect.com/science/article/pii/S0927537123000696"> Labour Economics</a>, 2023. Also avilable as a <a href="https://research.upjohn.org/up_workingpapers/387/"> W.E. Upjohn Working Paper</a> along with a <a href="https://research.upjohn.org/up_policybriefs/60/">non-technical summary</a>. 
 <br> 
 ##### <u>Maternity Leave and Paternity Leave: Evidence on the Economic Impact of Legislative Changes in High Income Countries</u>
 with <a href="https://sites.google.com/site/serenacanaan87/home"> Serena Canaan</a>, <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a> and <a href="https://sites.google.com/site/philrosenbaum/"> Philip Rosenbaum</a> <br>
-Published in <a href="https://oxfordre.com/economics/view/10.1093/acrefore/9780190625979.001.0001/acrefore-9780190625979-e-806?rskey=UvlZyC"> Oxford Research Encyclopedias</a>. Also available as [IZA DP No. 15129]({{BASE_PATH}}/pages/working_papers/Leave_Litreview_IZA_DP.pdf)
-<br> 
+Published in <a href="https://oxfordre.com/economics/view/10.1093/acrefore/9780190625979.001.0001/acrefore-9780190625979-e-806?rskey=UvlZyC"> Oxford Research Encyclopedias</a>, 2022. Also available as [IZA DP No. 15129]({{BASE_PATH}}/pages/working_papers/Leave_Litreview_IZA_DP.pdf)
+<br>
 <br>
 
 #### Work in Progress
