@@ -13,7 +13,7 @@ keywords: econ, gender, Anne Sophie Lassen, Economics
 <br/>
 I am a PostDoc at the <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/">Department of Economics</a> at <a href="https://www.cbs.dk/en/">Copenhagen Business School</a> where I completed my Ph.D. in economics in November 2022.<br/>
 <br>
-#### From September, I'll be joining <a href="https://www.wzb.eu/en">WZB.</a>
+<h>From September, I'll be joining <a href="https://www.wzb.eu/en">WZB</a> and <a href="https://berlinschoolofeconomics.de/home>Berlin School of Economics.</a></h>
 <br>
 I'm an applied micro economist, and my research is primarily concerned with the mechanisms behind and implications of gender differences in labor market outcomes.
 <br/>
