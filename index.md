@@ -11,9 +11,9 @@ keywords: econ, gender, Anne Sophie Lassen, Economics
     <div class="row-fluid">
         <div class="span6">
 <br/>
-I am a PostDoctoral Researcher at the <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/">Department of Economics</a> at <a href="https://www.cbs.dk/en/">Copenhagen Business School</a> where I completed my Ph.D. in economics in November 2022.<br/>
+I am a PostDoc at the <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/">Department of Economics</a> at <a href="https://www.cbs.dk/en/">Copenhagen Business School</a> where I completed my Ph.D. in economics in November 2022.<br/>
 <br>
-##### From September, I'll be joining WZB. 
+#####From September, I'll be joining <a href="https://www.wzb.eu/en">WZB.</a>
 <br>
 I'm an applied micro economist, and my research is primarily concerned with the mechanisms behind and implications of gender differences in labor market outcomes.
 <br/>
@@ -36,7 +36,7 @@ You can contact me on <a href="mailto:assl.eco@cbs.dk">assl.eco@cbs.dk</a> or fo
 <br>
 #### News
 <br>
-I'll present our paper "Fertility and Promotion" at the <a href="https://www.aeaweb.org/conference/"> ASSA 2024 in San Antonio, Texas</a> on January 5. 
+I'll present our paper "Parenthood and Academic Career Trajectories" at the <a href="https://www.aeaweb.org/conference/"> ASSA 2024 in San Antonio, Texas</a> on January 5. 
 [A short version of the paper]({{ BASE_PATH}}/pages/working_papers/Parenthood_AcademiaPP.pdf) has been accepted to AEA Papers & Proceedings. 
 <br>
 <br>
