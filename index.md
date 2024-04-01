@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Anne Sophie Lassen
-description: Anne Sophie Lassen is PhD Fellow at Copenhagen Business School.
-keywords: econ, gender, Anne Sophie Lassen, Copenhagen Business School, Economics
+description: Anne Sophie Lassen is an applied micro economists, focusing on the causes and consquences of gender differences in labor market.
+keywords: econ, gender, Anne Sophie Lassen, Economics
 ---
 
 <div class="container">
@@ -13,11 +13,12 @@ keywords: econ, gender, Anne Sophie Lassen, Copenhagen Business School, Economic
 <br/>
 I am a PostDoctoral Researcher at the <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/">Department of Economics</a> at <a href="https://www.cbs.dk/en/">Copenhagen Business School</a> where I completed my Ph.D. in economics in November 2022.<br/>
 <br>
+##### From September, I'll be joining WZB. 
 <br>
-My research is primarily concerned with the mechanisms behind and implications of gender differences in labor market outcomes.
-This means my work is placed within the intersection of labor, household, gender, and public economics. For example, I work on the interaction between family policies, gender norms, and inequality, and gender-based violence, and segregated labor markets. <br/>
+I'm an applied micro economist, and my research is primarily concerned with the mechanisms behind and implications of gender differences in labor market outcomes.
+<br/>
 <br>
-On this website  you can read about my <a href="https://annesophielassen.github.io/pages/research.html"> research</a>, and <a href="https://annesophielassen.github.io/pages/dissemination.html"> teaching,</a> and find my <a href="https://annesophielassen.github.io/assets/CV.pdf"> CV</a>. 
+On this website  you can read about my <a href="https://annesophielassen.github.io/pages/research.html"> research</a>, and find my <a href="https://annesophielassen.github.io/assets/CV.pdf"> CV</a>. 
 <br>
 <br>
 You can contact me on <a href="mailto:assl.eco@cbs.dk">assl.eco@cbs.dk</a> or follow me on Twitter <a href="https://twitter.com/AnSoLassen" target="_blank">@AnSoLassen</a>.<br/>
