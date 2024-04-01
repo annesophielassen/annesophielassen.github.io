@@ -3,7 +3,7 @@ layout: page
 title: Dissemination
 description: Anne Sophie Lassen's dissemination incl teaching and media 
 ---
-#### Teaching
+<!-- #### Teaching
 ##### <u><a href="https://kursuskatalog.cbs.dk/2019-2020/BA-BISHO1006U.aspx"> Microeconomics</a>:</u> (2020) TA for Herdis Steingrimsdottir
 Bachelor in International Business <br>
 Bachelor in Business Economics and Shipping
@@ -15,7 +15,7 @@ Master of Business Development
 <u>Supervision</u>: I supervise quantitative bachelor's and master's theses across CBS programs focusing on labor markets, inequality and diversity, broadly defined.
 Examples of topics include economic aid during the Covid-19 pandemic, the impact of gender diversity on boards, and diversity in recruitment. 
 <br>
-
+-->
 
 #### Selected Media (in Danish)
 ##### <u> <a href="https://www.information.dk/moti/2023/11/aarets-nobelprismodtager-oekonomi-vist-hvordan-graadige-job-skader-ligestillingen">Årets nobelprismodtager i økonomi har vist, hvordan ’grådige job’ skader ligestillingen</a></u>
