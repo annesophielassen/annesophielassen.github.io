@@ -3,6 +3,9 @@ layout: page
 title: Dissemination
 description: Anne Sophie Lassen's dissemination incl teaching and media 
 ---
+I consider public outreach activities to be very important, and make sure that my expertise on labor economics and gender inequality is available to a wider audience. I have written short short esseays for the Danish newspaper Information on topics in labor economics, broadly defined. 
+A subset of these essays is listed below and <a href="https://www.information.dk/anne-sophie-lassen>here.</a> I also reguarly talk to newspapers and radio/podcasts about e.g. changes in family policies and labor market inequality. Journalists are welcome to contract me on <a href="mailto:assl.eco@cbs.dk">assl.eco@cbs.dk</a>. <br>
+I have been invited to give talks about intra-household inequality the <a href ="https://konmuseum.dk/kalender/foredrag-the-mental-load/> Gender Museum Denmark</a> and in the trade union, HK. 
 <!-- #### Teaching
 #####<u><a href="https://kursuskatalog.cbs.dk/2019-2020/BA-BISHO1006U.aspx"> Microeconomics</a>:</u> (2020) TA for Herdis Steingrimsdottir
 Bachelor in International Business <br>
