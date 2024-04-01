@@ -4,7 +4,7 @@ title: Dissemination
 description: Anne Sophie Lassen's dissemination incl teaching and media 
 ---
 I consider public outreach activities to be very important, and make sure that my expertise on labor economics and gender inequality is available to a wider audience. I have been invited to give talks about intra-household inequality the <a href ="https://konmuseum.dk/kalender/foredrag-the-mental-load/"> Gender Museum Denmark</a> and in the trade union, HK. I have written short short esseays for Danish media on topics in labor economics, broadly defined. 
-<br> A subset of these essays is <a href="https://www.information.dk/anne-sophie-lassen">here</a>. <br> I reguarly talk to newspapers and radio/podcasts about e.g. changes in family policies and labor market inequality. Journalists are welcome to contract me on <a href="mailto:assl.eco@cbs.dk">assl.eco@cbs.dk</a>. <br>
+A subset of these essays is <a href="https://www.information.dk/anne-sophie-lassen">here</a>. <br> <br> I reguarly talk to newspapers and radio/podcasts about e.g. changes in family policies and labor market inequality. Journalists are welcome to contract me on <a href="mailto:assl.eco@cbs.dk">assl.eco@cbs.dk</a>. <br>
 
 
 <!-- #### Teaching

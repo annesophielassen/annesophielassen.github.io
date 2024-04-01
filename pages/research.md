@@ -24,7 +24,7 @@ I document both inter-generational spillovers from maternal labor supply and pee
 
 [Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/JMP_ParentalLeave_Lassen.pdf) 
 <br>
-
+<br>
 #### Research in Progress
 
 ##### <u>Does Earmarked Paternity Leave Shape Gender Norms?</u>
