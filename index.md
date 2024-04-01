@@ -19,7 +19,7 @@ I am a PostDoc at the <a href="https://www.cbs.dk/en/research/departments-and-ce
 I'm an applied micro economist, and my research is primarily concerned with the mechanisms behind and implications of gender differences in labor market outcomes.
 <br/>
 <br>
-On this website  you can read about my <a href="https://annesophielassen.github.io/pages/research.html"> research</a>, and find my <a href="https://annesophielassen.github.io/assets/CV.pdf"> CV</a>. 
+On this website  you can read about my <a href="https://annesophielassen.github.io/pages/research.html"> research</a> and find my <a href="https://annesophielassen.github.io/assets/CV.pdf"> CV</a>. 
 <br>
 <br>
 You can contact me on <a href="mailto:assl.eco@cbs.dk">assl.eco@cbs.dk</a> or follow me on Twitter <a href="https://twitter.com/AnSoLassen" target="_blank">@AnSoLassen</a>.<br/>
