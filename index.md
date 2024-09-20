@@ -15,7 +15,7 @@ I am a PostDoctoral Research Fellow at <a href="https://wzb.eu/en">WZB</a>, part
 <br>
 <br>
 I also hold a part-time position at <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/">Department of Economics</a> at <a href="https://www.cbs.dk/en/">Copenhagen Business School</a> and the DFF-funded project 'Parents' Specialization: Causes and Consequences'.<br/>
-<br>s
+<br>
 <br>
 I'm an applied micro economist, and my research is primarily concerned with the mechanisms behind and implications of gender differences in labor market outcomes.
 <br/>
