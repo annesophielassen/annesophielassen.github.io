@@ -13,17 +13,16 @@ keywords: econ, gender, Anne Sophie Lassen, Economics
 <br/>
 I am a PostDoctoral Research Fellow at <a href="https://wzb.eu/en">WZB</a>, part of the <a href="https://berlinschoolofeconomics.de/home">Berlin School of Economics</a>.  
 <br>
-I also hold a part-time position at <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/">Department of Economics</a> at <a href="https://www.cbs.dk/en/">Copenhagen Business School</a> and the DFF-funded project 'Parents' Specialization: Causes and Consequences'.<br/>
 <br>
-<br/>
+I also hold a part-time position at <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/">Department of Economics</a> at <a href="https://www.cbs.dk/en/">Copenhagen Business School</a> and the DFF-funded project 'Parents' Specialization: Causes and Consequences'.<br/>
+<br>s
 <br>
 I'm an applied micro economist, and my research is primarily concerned with the mechanisms behind and implications of gender differences in labor market outcomes.
 <br/>
 <br>
 Please reach out if you want to talk about mine or your research!. 
 <br>
-You can contact me on <a href="mailto:anne.sophie.lassen@wzb.eu">anne.sophie.lassen@wzb.eu</a> or follow me on Twitter or Bluesky <a href="https://twitter.com/AnSoLassen" target="_blank">@AnSoLassen</a>.<br/>
-My Google Scholar profile is <a href="https://scholar.google.dk/citations?user=hOz8NV4AAAAJ&hl=da">here.</a>
+You can contact me on <a href="mailto:anne.sophie.lassen@wzb.eu">anne.sophie.lassen@wzb.eu</a> or follow me on Twitter or Bluesky <a href="https://twitter.com/AnSoLassen" target="_blank">@AnSoLassen</a>. My Google Scholar profile is <a href="https://scholar.google.dk/citations?user=hOz8NV4AAAAJ&hl=da">here.</a>
         </div>
 
         <div class="span3">
