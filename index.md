@@ -11,18 +11,18 @@ keywords: econ, gender, Anne Sophie Lassen, Economics
     <div class="row-fluid">
         <div class="span6">
 <br/>
-I am a PostDoc at the <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/">Department of Economics</a> at <a href="https://www.cbs.dk/en/">Copenhagen Business School</a> where I completed my Ph.D. in economics in November 2022.<br/>
+I am a PostDoctoral Research Fellow at <a href="https://wzb.eu/en">WZB</a>, part of the <a href="https://berlinschoolofeconomics.de/home">Berlin School of Economics</a>.  
 <br>
-<u>From September, I'll be joining <a href="https://www.wzb.eu/en">WZB</a> and <a href="https://berlinschoolofeconomics.de/home">Berlin School of Economics.</a></u>
+I also hold a part-time position at <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/">Department of Economics</a> at <a href="https://www.cbs.dk/en/">Copenhagen Business School</a> and the DFF-funded project 'Parents' Specialization: Causes and Consequences'.<br/>
+<br>
 <br/>
 <br>
 I'm an applied micro economist, and my research is primarily concerned with the mechanisms behind and implications of gender differences in labor market outcomes.
 <br/>
 <br>
-On this website  you can read about my <a href="https://annesophielassen.github.io/pages/research.html"> research</a> and find my <a href="https://annesophielassen.github.io/assets/CV.pdf"> CV</a>. 
+Please reach out if you want to talk about mine or your research!. 
 <br>
-<br>
-You can contact me on <a href="mailto:assl.eco@cbs.dk">assl.eco@cbs.dk</a> or follow me on Twitter <a href="https://twitter.com/AnSoLassen" target="_blank">@AnSoLassen</a>.<br/>
+You can contact me on <a href="mailto:anne.sophie.lassen@wzb.eu">anne.sophie.lassen@wzb.eu</a> or follow me on Twitter or Bluesky <a href="https://twitter.com/AnSoLassen" target="_blank">@AnSoLassen</a>.<br/>
 My Google Scholar profile is <a href="https://scholar.google.dk/citations?user=hOz8NV4AAAAJ&hl=da">here.</a>
         </div>
 
@@ -38,8 +38,10 @@ My Google Scholar profile is <a href="https://scholar.google.dk/citations?user=h
 <br>
 #### News
 <br>
-I'll present our paper "Parenthood and Academic Career Trajectories" at the <a href="https://www.aeaweb.org/conference/"> ASSA 2024 in San Antonio, Texas</a> on January 5. 
-[A short version of the paper]({{ BASE_PATH}}/pages/working_papers/Parenthood_AcademiaPP.pdf) has been accepted to AEA Papers & Proceedings. 
+In October, I'll be visiting <a href="https://www.henrikkleven.com/">Prof. Henrik Kleven</a> at Princeton University, Department of Economics. 
+<br>
+<br>
+Our paper <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20241118">Parenthood and Academic Career Trajectories</a> is published in the May 2024 Volumen of AEA Papers & Proceedings. 
 <br>
 <br>
 Our paper <a href="https://www.sciencedirect.com/science/article/pii/S0927537123000696">Gender gaps from labor market shocks</a> is published in the August 2023 Volume of Labour Economics. 
