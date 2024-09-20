@@ -27,8 +27,8 @@ You can contact me on <a href="mailto:anne.sophie.lassen@wzb.eu">anne.sophie.las
 
         <div class="span3">
 <br>
-        <a href="../assets/headshot_grey.jpg">
-            <img src="../assets/headshot_grey.jpg"
+        <a href="../assets/headshot_circel.jpeg">
+            <img src="../assets/headshot_circel.jpeg"
                   title="AnneSophieLassen" alt="Lassen"/></a>
         </div>
     </div>
