@@ -39,7 +39,11 @@ You can contact me on <a href="mailto:anne.sophie.lassen@wzb.eu">anne.sophie.las
 <br>
 On April 25, I'll be presenting at the <a href="https://www.nber.org/conferences/investments-early-career-scientists-spring-2025"> NBER Spring Meeting</a>. 
 <br>
-In April, I'll be visiting <a href="https://www.henrikkleven.com/">Prof. Henrik Kleven</a> at Princeton University, Department of Economics. 
+<br>
+From April 15-May 15, I'll be visiting <a href="https://www.henrikkleven.com/">Prof. Henrik Kleven</a> at Princeton University, Department of Economics. 
+<br>
+<br>
+We published the OECD report <a href=https://www.oecd.org/en/publications/the-role-of-bargaining-and-discrimination-in-the-gender-wage-gap-in-france_1fd68687-en.html>The role of bargaining and discrimination in the gender wage gap in France: A cross-country perspective.</a>. Stay tuned for the working paper "The Unequal Impact of Firms on the Relative Pay of Women Across Countries"
 <br>
 <br>
 Our paper <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20241118">Parenthood and Academic Career Trajectories</a> is published in the May 2024 Volumen of AEA Papers & Proceedings. 
