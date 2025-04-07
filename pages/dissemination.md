@@ -22,6 +22,9 @@ Examples of topics include economic aid during the Covid-19 pandemic, the impact
 -->
 
 #### Selected Media (in Danish)
+##### <u> <a href="https://www.altinget.dk/artikel/kvinder-skal-ikke-bare-paa-stemmesedlen-de-skal-i-toppen-af-den">Kvinder skal ikke bare pynte på stemmesedlen.</a></u>
+###### *7. marts 2025, Altinget.dk*
+
 ##### <u> <a href="https://www.information.dk/moti/2023/11/aarets-nobelprismodtager-oekonomi-vist-hvordan-graadige-job-skader-ligestillingen">Årets nobelprismodtager i økonomi har vist, hvordan ’grådige job’ skader ligestillingen</a></u>
 ###### *4. november 2023, Information*
 
