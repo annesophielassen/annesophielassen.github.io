@@ -22,7 +22,7 @@ I'm an applied micro economist, and my research is primarily concerned with the 
 <br>
 Please reach out if you want to talk about mine or your research! 
 <br>
-You can contact me on <a href="mailto:anne.sophie.lassen@wzb.eu">anne.sophie.lassen@wzb.eu</a> or follow me on Twitter or Bluesky <a href="https://twitter.com/AnSoLassen" target="_blank">@AnSoLassen</a>. My Google Scholar profile is <a href="https://scholar.google.dk/citations?user=hOz8NV4AAAAJ&hl=da">here.</a>
+You can contact me on <a href="mailto:anne.sophie.lassen@wzb.eu">anne.sophie.lassen@wzb.eu</a> or follow me on Twitter or Bluesky <a href="https://bsky.app/profile/ansolassen.bsky.social" target="_blank">@AnSoLassen</a>. My Google Scholar profile is <a href="https://scholar.google.dk/citations?user=hOz8NV4AAAAJ&hl=da">here.</a>
         </div>
 
         <div class="span3">
