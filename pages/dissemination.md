@@ -22,8 +22,11 @@ Examples of topics include economic aid during the Covid-19 pandemic, the impact
 -->
 
 #### Selected Media (in Danish)
-##### <u> <a href="https://www.altinget.dk/artikel/kvinder-skal-ikke-bare-paa-stemmesedlen-de-skal-i-toppen-af-den">Kvinder skal ikke bare pynte på stemmesedlen.</a></u>
+##### <u> <a href="https://www.altinget.dk/artikel/kvinder-skal-ikke-bare-paa-stemmesedlen-de-skal-i-toppen-af-den">Kvinder skal ikke bare pynte på stemmesedlen</a></u>
 ###### *7. marts 2025, Altinget.dk*
+
+##### <u> <a href="https://www.berlingske.dk/kronikker/oekonom-emma-holten-overser-feministers-store-indflydelse-paa">Økonom: Emma Holten overser feministers store indflydelse på økonomifaget</a></u>
+###### *16. maj 2024, Berlingske*
 
 ##### <u> <a href="https://www.information.dk/moti/2023/11/aarets-nobelprismodtager-oekonomi-vist-hvordan-graadige-job-skader-ligestillingen">Årets nobelprismodtager i økonomi har vist, hvordan ’grådige job’ skader ligestillingen</a></u>
 ###### *4. november 2023, Information*
@@ -55,8 +58,6 @@ Examples of topics include economic aid during the Covid-19 pandemic, the impact
 ##### <u><a href="https://www.information.dk/debat/2020/06/foraeldet-ide-boern-bedre-barsel-mor-far">Lad os sidestille mor og far</a></u>
 ###### *10. juni 2020, Information*
 
-##### <u><a href="https://politiken.dk/debat/debatindlaeg/art7779758/Partnervolden-er-stigende-under-coronakrisen-og-forsvinder-f%C3%B8rst-n%C3%A5r-%C3%B8konomien-bedres">Partnervolden er stigende under coronakrisen og forsvinder først, når økonomien bedres</a></u>, Joint with Birthe Larsen
-###### *15. maj 2020, Politiken*
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
