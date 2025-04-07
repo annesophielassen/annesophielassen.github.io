@@ -46,13 +46,13 @@ Examples of topics include economic aid during the Covid-19 pandemic, the impact
 ##### <u><a href="https://www.information.dk/moti/2022/07/oeremaerkede-barsel-faedre-realitet-uden-ordentlig-diskussion-faedres-rolle">Den øremærkede barsel til fædre bliver en realitet uden en ordentlig diskussion af fædres rolle</a></u>
 ###### *30. juli 2022, Information*
 
-##### <u><a href="https://www.information.dk/debat/2021/10/emma-holten-opdaget-feministisk-moderne-oekonomi-kan-vaere">Emma Holten har ikke opdaget, hvor feministisk moderne økonomi kan være</a></u>, Joint with Sofie Dalum
+##### <u><a href="https://www.information.dk/debat/2021/10/emma-holten-opdaget-feministisk-moderne-oekonomi-kan-vaere">Emma Holten har ikke opdaget, hvor feministisk moderne økonomi kan være</a></u>
 ###### *14. oktober 2021, Information*
 
 ##### <u><a href="https://www.femina.dk/agenda/samfund/forvandler-du-dig-til-en-husmor-naar-du-arbejder-hjemme">Forvandler du dig til en husmor, når du arbejder hjemme?</a></u>
 ###### *16. juni 2021, Femina.dk*
 
-##### <u><a href="https://www.raeson.dk/2021/oekonomer-paa-cbs-regeringen-staar-lige-nu-med-en-unik-mulighed-den-kan-tage-syvmileskridt-paa-ligestillingsomraadet-ved-at-indfoere-14-ugers-oeremaerket-barsel-til-hver-foraelder/">Økonomer på CBS: Regeringen står lige nu med en unik mulighed. Den kan tage syvmileskridt på ligestillingsområdet ved at indføre 14 ugers øremærket barsel til hver forælder</a></u>, Joint with Birthe Larsen
+##### <u><a href="https://www.raeson.dk/2021/oekonomer-paa-cbs-regeringen-staar-lige-nu-med-en-unik-mulighed-den-kan-tage-syvmileskridt-paa-ligestillingsomraadet-ved-at-indfoere-14-ugers-oeremaerket-barsel-til-hver-foraelder/">Økonomer på CBS: Regeringen står lige nu med en unik mulighed. Den kan tage syvmileskridt på ligestillingsområdet ved at indføre 14 ugers øremærket barsel til hver forælder</a></u>
 ###### *28. maj 2021, Ræson*
 
 ##### <u><a href="https://www.information.dk/debat/2020/06/foraeldet-ide-boern-bedre-barsel-mor-far">Lad os sidestille mor og far</a></u>
