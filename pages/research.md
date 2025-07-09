@@ -28,7 +28,7 @@ I document both inter-generational spillovers from maternal labor supply and pee
 <br>
 
 ##### <u>Firms and the Gender Wage Gap: A Comparison of Eleven Countries</u> (Email me for draft)
-with  Marco G. Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Barreto, Dogan Gülümser, Marta Lachowska, Anne Sophie Lassen, Salvatore Lattanzio, Benjamin Lochner, Stefano Lombardi, Jordy Meekes, Balazs Murakozy, Oskar Skans
+with  Marco G. Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Barreto, Dogan Gülümser, Marta Lachowska, Anne Sophie Lassen, Salvatore Lattanzio, Benjamin Lochner, Stefano Lombardi, Jordy Meekes, Balazs Murakozy, and Oskar Skans <br>
 <a href="https://www.antoinebertheau.com/uploads/1/0/4/1/104122340/gwg_across_countries_abstract_online.pdf">Extended Abstract </a> and <a href="https://www.oecd.org/en/publications/the-role-of-bargaining-and-discrimination-in-the-gender-wage-gap-in-france_1fd68687-en.html">the related OECD report.</a> 
 <br>
 <br>
