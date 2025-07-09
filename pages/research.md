@@ -42,11 +42,12 @@ with <a href="https://www.henrikkleven.com/">Henrik Kleven</a>, <a href="https:/
 
 ##### <u>Intergenerational Transmission of Gender Segregation</u> 
 
-##### <u>Job Displacement, Inequality, and Domestic Violence</u>
-with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> <br>
+<!-- ##### <u>Job Displacement, Inequality, and Domestic Violence</u>-->
+<!--with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> <br>-->
 
-##### <u>Violence at Work: Evidence from the Health Care Sector</u>
+<!--##### <u>Violence at Work: Evidence from the Health Care Sector</u>
 with <a href="https://sites.google.com/site/srbhalotra/">Sonia Bhalotra</a>,  <a href="https://www.zew.de/en/team/jkh">Jan Köhler</a>, <a href="http://simonreif.eu/">Simon Reif</a>, and <a href="https://www.zew.de/en/team/ssu">Sabrina Schubert</a>
+-->
 	
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
