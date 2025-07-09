@@ -37,22 +37,20 @@ You can contact me on <a href="mailto:anne.sophie.lassen@wzb.eu">anne.sophie.las
 <br>
 #### News
 <br>
+I'll be at <a href=" https://www.nber.org/conferences/si-2025-labor-studies"> NBER SI</a>, where Marco Palladino will present our paper <a href="https://www.antoinebertheau.com/uploads/1/0/4/1/104122340/gwg_across_countries_abstract_online.pdf">Firms and the Gender Wage Gap: A Comparison of Eleven Countries </a>.
+<br>
 On April 25, I'll be presenting at the <a href="https://www.nber.org/conferences/investments-early-career-scientists-spring-2025"> NBER Spring Meeting</a>. 
 <br>
 <br>
 From April 15-May 15, I'll be visiting <a href="https://www.henrikkleven.com/">Prof. Henrik Kleven</a> at Princeton University, Department of Economics. 
 <br>
 <br>
-We published the OECD report <a href="https://www.oecd.org/en/publications/the-role-of-bargaining-and-discrimination-in-the-gender-wage-gap-in-france_1fd68687-en.html">The role of bargaining and discrimination in the gender wage gap in France: A cross-country perspective.</a> Stay tuned for the working paper <a href="https://www.antoinebertheau.com/uploads/1/0/4/1/104122340/gwg_across_countries_abstract_online.pdf">The Unequal Impact of Firms on the Gender Wage Gap</a>.
-<br>
-<br>
 Our paper <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20241118">Parenthood and Academic Career Trajectories</a> is published in the May 2024 Volumen of AEA Papers & Proceedings. 
 <br>
 <br>
-Our paper <a href="https://www.sciencedirect.com/science/article/pii/S0927537123000696">Gender gaps from labor market shocks</a> is published in the August 2023 Volume of Labour Economics. 
 <br>
 <br>
-On March 8, I spoke about <a href="https://www.hk.dk/aktuelt/nyheder/2023/02/23/8-marts-om-kvinders-oekonomi-og-usynlige-opgaver">the value and distribution of unpaid labor</a> and wrote about <a href="https://www.information.dk/moti/2023/03/seksuel-chikane-fastholde-koensopdelt-arbejdsmarked?lst_cntrb">the costs of sexual harassment</a>. 
+
 
 
 
