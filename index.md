@@ -41,9 +41,7 @@ I'll be at <a href=" https://www.nber.org/conferences/si-2025-labor-studies"> NB
 <br>
 On April 25, I'll be presenting at the <a href="https://www.nber.org/conferences/investments-early-career-scientists-spring-2025"> NBER Spring Meeting</a>. 
 <br>
-<br>
 From April 15-May 15, I'll be visiting <a href="https://www.henrikkleven.com/">Prof. Henrik Kleven</a> at Princeton University, Department of Economics. 
-<br>
 <br>
 Our paper <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20241118">Parenthood and Academic Career Trajectories</a> is published in the May 2024 Volumen of AEA Papers & Proceedings. 
 <br>
