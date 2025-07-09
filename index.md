@@ -37,7 +37,7 @@ You can contact me on <a href="mailto:anne.sophie.lassen@wzb.eu">anne.sophie.las
 <br>
 #### News
 <br>
-I'll be at <a href=" https://www.nber.org/conferences/si-2025-labor-studies"> NBER SI</a>, where Marco Palladino will present our paper <a href="https://www.antoinebertheau.com/uploads/1/0/4/1/104122340/gwg_across_countries_abstract_online.pdf">Firms and the Gender Wage Gap: A Comparison of Eleven Countries </a>.
+I'll be attending the <a href=" https://www.nber.org/conferences/si-2025-labor-studies"> NBER SI</a>, where Marco Palladino will present our paper <a href="https://www.antoinebertheau.com/uploads/1/0/4/1/104122340/gwg_across_countries_abstract_online.pdf">Firms and the Gender Wage Gap: A Comparison of Eleven Countries. </a>
 <br>
 <br>
 On April 25, I'll be presenting at the <a href="https://www.nber.org/conferences/investments-early-career-scientists-spring-2025"> NBER Spring Meeting</a>. 
