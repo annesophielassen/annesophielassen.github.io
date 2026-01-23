@@ -24,20 +24,21 @@ Published in <a href="https://oxfordre.com/economics/view/10.1093/acrefore/97801
 leave by 5 weeks, while the average leave duration of fathers remains unchanged. In turn, the earnings gap within couples increases. Leave duration is unaffected by relative earnings, and is instead highly consistent with the role of gender norms. 
 I document both inter-generational spillovers from maternal labor supply and peer effects among sisters who take a longer leave if exposed to the reform-induced change in leave duration.*<br>
 
-[Click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/JMP_ParentalLeave_Lassen.pdf) 
+[Click here for the working paper]({{ BASE_PATH}}/pages/working_papers/JMP_ParentalLeave_Lassen.pdf) 
 <br>
 
 ##### <u>Firms and the Gender Wage Gap: A Comparison of Eleven Countries</u> (Email me for draft)
 with  Marco G. Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Barreto, Dogan Gülümser, Marta Lachowska, Anne Sophie Lassen, Salvatore Lattanzio, Benjamin Lochner, Stefano Lombardi, Jordy Meekes, Balazs Murakozy, and Oskar Skans <br>
-<a href="https://www.antoinebertheau.com/uploads/1/0/4/1/104122340/gwg_across_countries_abstract_online.pdf">Click here for the Extended Abstract </a> and <a href="https://www.oecd.org/en/publications/the-role-of-bargaining-and-discrimination-in-the-gender-wage-gap-in-france_1fd68687-en.html">the related OECD report.</a> 
+*We quantify the role of gender-specific firm wage premiums in explaining the private-sector gender gap in hourly wages using a harmonized research design across 11 matched employeremployee datasets — ten European countries and Washington State, USA. These premiums contribute to the gender wage gap through two channels: women’s concentration in lowerpaying firms (sorting) and women receiving lower premiums than men within the same firm (pay-setting). We find that firm wage premiums account for 10 to 30 percent of the gender wage gap. While both mechanisms matter, sorting is the predominant driver of the firm contribution to the gender wage gap in most countries. We document three patterns that are broadly consistent across countries: (1) women’s sorting into lower-paying firms increases with age; (2) women are more concentrated in low-paying firms with a high share of part-time workers; and (3) women receive about 90 percent of the rents that men receive from firm surplus gains.*
+<a href="https://www.chicagofed.org/publications/working-papers/2025/2025-24">Click here the working paper </a> and <a href="https://www.oecd.org/en/publications/the-role-of-bargaining-and-discrimination-in-the-gender-wage-gap-in-france_1fd68687-en.html">the related OECD report.</a> 
 <br>
 <br>
 #### Research in Progress
 
-##### <u>Parenthood and the Academic Ladder</u>
-with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a>, <a href="https://sites.google.com/view/sofiecairo"> Sofie Cairo</a> and <a href="https://research.hhs.se/esploro/profile/valentina_tartari/overview"> Valentina Tartari <br>
+##### <u>Parenthood and the Career Ladder: Evidence from Academia</u>
+with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a>, <a href="https://sites.google.com/view/sofiecairo"> Sofie Cairo</a> and <a href="https://research.hhs.se/esploro/profile/valentina_tartari/overview"> Valentina Tartari <br> E-mail me for draft
 
-##### <u>Does Earmarked Paternity Leave Shape Gender Norms?</u>
+##### <u>Expanding Paternity Leave: Effects on Beliefs, Norms, and Gender Gaps?</u>
 with <a href="https://www.henrikkleven.com/">Henrik Kleven</a>, <a href="https://app.scholarsite.io/camille-landais">Camille Landais</a>, <a href="https://sites.google.com/site/philrosenbaum/"> Philip Rosenbaum</a>, <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a>, and <a href="https://jakobsogaard.com/">Jakob Søgaard</a>
 
 ##### <u>Intergenerational Transmission of Gender Segregation</u> 
