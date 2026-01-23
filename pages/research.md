@@ -4,17 +4,20 @@ title: Research
 description: Anne Sophie Lassen's research
 ---
 #### Publications
-##### <u> Parenthood and Academic Career Trajectories</u> with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> <br>
+##### <u> Parenthood and Academic Career Trajectories</u> 
+with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> <br>
 Published in <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20241118">AEA Papers & Proceedings</a>, 2024. 
 [Click here for the pre-print version]({{ BASE_PATH}}/pages/working_papers/Parenthood_AcademiaPP.pdf). 
 <br>
 Media:  <a href="https://cep.lse.ac.uk/pubs/download/cp690.pdf">LSE Centrepiece</a>,  <a href="https://blogs.lse.ac.uk/impactofsocialsciences/2024/10/29/what-makes-the-child-penalty-in-academia-different/">LSE Impact Blog</a>,  <a href="https://www.djoefbladet.dk/artikler/2024/05/anne-sophie-lassen-kvinder-forskning">Djoefbladet</a> (in Danish),  <a href="https://www.khrono.no/a-fa-barn-bidrar-til-at-kvinner-dropper-hele-forskerkarrieren/891955"> Khronos</a> (in Norwegian).
 <br>
-##### <u>Gender Gaps from Labor Market Shocks</u> with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> 
+##### <u>Gender Gaps from Labor Market Shocks</u> 
+with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> 
 Published in <a href="https://www.sciencedirect.com/science/article/pii/S0927537123000696"> Labour Economics</a>, 2023. Also avilable as a <a href="https://research.upjohn.org/up_workingpapers/387/"> W.E. Upjohn Working Paper</a> along with a <a href="https://research.upjohn.org/up_policybriefs/60/">non-technical summary</a>.<br> 
 Media: <a href="https://cep.lse.ac.uk/pubs/download/cp672.pdf">LSE Centrepiece</a>, <a href="https://cepr.org/voxeu/columns/gender-gaps-labour-market-shocks">VoxEU</a>.
 <br> 
-##### <u>Maternity Leave and Paternity Leave: Evidence on the Economic Impact of Legislative Changes in High Income Countries</u> with <a href="https://sites.google.com/site/serenacanaan87/home"> Serena Canaan</a>, <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a> and <a href="https://sites.google.com/site/philrosenbaum/"> Philip Rosenbaum</a> <br>
+##### <u>Maternity Leave and Paternity Leave: Evidence on the Economic Impact of Legislative Changes in High Income Countries</u>
+with <a href="https://sites.google.com/site/serenacanaan87/home"> Serena Canaan</a>, <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a> and <a href="https://sites.google.com/site/philrosenbaum/"> Philip Rosenbaum</a> <br>
 Published in <a href="https://oxfordre.com/economics/view/10.1093/acrefore/9780190625979.001.0001/acrefore-9780190625979-e-806?rskey=UvlZyC"> Oxford Research Encyclopedias</a>, 2022. Also available as [IZA DP No. 15129]({{BASE_PATH}}/pages/working_papers/Leave_Litreview_IZA_DP.pdf).
 <br>
 <br>
@@ -27,9 +30,9 @@ I document both inter-generational spillovers from maternal labor supply and pee
 [Click here for the working paper]({{ BASE_PATH}}/pages/working_papers/JMP_ParentalLeave_Lassen.pdf) 
 <br>
 
-##### <u>Firms and the Gender Wage Gap: A Comparison of Eleven Countries</u> (Email me for draft)
+##### <u>Firms and the Gender Wage Gap: A Comparison of Eleven Countries</u> 
 with  Marco G. Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Barreto, Dogan Gülümser, Marta Lachowska, Anne Sophie Lassen, Salvatore Lattanzio, Benjamin Lochner, Stefano Lombardi, Jordy Meekes, Balazs Murakozy, and Oskar Skans <br>
-*We quantify the role of gender-specific firm wage premiums in explaining the private-sector gender gap in hourly wages using a harmonized research design across 11 matched employeremployee datasets — ten European countries and Washington State, USA. These premiums contribute to the gender wage gap through two channels: women’s concentration in lowerpaying firms (sorting) and women receiving lower premiums than men within the same firm (pay-setting). We find that firm wage premiums account for 10 to 30 percent of the gender wage gap. While both mechanisms matter, sorting is the predominant driver of the firm contribution to the gender wage gap in most countries. We document three patterns that are broadly consistent across countries: (1) women’s sorting into lower-paying firms increases with age; (2) women are more concentrated in low-paying firms with a high share of part-time workers; and (3) women receive about 90 percent of the rents that men receive from firm surplus gains.*
+*We quantify the role of gender-specific firm wage premiums in explaining the private-sector gender gap in hourly wages using a harmonized research design across 11 matched employeremployee datasets — ten European countries and Washington State, USA. These premiums contribute to the gender wage gap through two channels: women’s concentration in lowerpaying firms (sorting) and women receiving lower premiums than men within the same firm (pay-setting). We find that firm wage premiums account for 10 to 30 percent of the gender wage gap. While both mechanisms matter, sorting is the predominant driver of the firm contribution to the gender wage gap in most countries. We document three patterns that are broadly consistent across countries: (1) women’s sorting into lower-paying firms increases with age; (2) women are more concentrated in low-paying firms with a high share of part-time workers; and (3) women receive about 90 percent of the rents that men receive from firm surplus gains.* <br>
 <a href="https://www.chicagofed.org/publications/working-papers/2025/2025-24">Click here the working paper </a> and <a href="https://www.oecd.org/en/publications/the-role-of-bargaining-and-discrimination-in-the-gender-wage-gap-in-france_1fd68687-en.html">the related OECD report.</a> 
 <br>
 <br>
