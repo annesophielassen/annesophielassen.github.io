@@ -7,12 +7,11 @@ description: Anne Sophie Lassen's research
 ##### <u> Parenthood and Academic Career Trajectories</u> 
 with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> <br>
 Published in <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20241118">AEA Papers & Proceedings</a>, 2024. 
-[Click here for the pre-print version]({{ BASE_PATH}}/pages/working_papers/Parenthood_AcademiaPP.pdf). 
-<br>
+[Click here for the pre-print version]({{ BASE_PATH}}/pages/working_papers/Parenthood_AcademiaPP.pdf). <br>
 Media:  <a href="https://cep.lse.ac.uk/pubs/download/cp690.pdf">LSE Centrepiece</a>,  <a href="https://blogs.lse.ac.uk/impactofsocialsciences/2024/10/29/what-makes-the-child-penalty-in-academia-different/">LSE Impact Blog</a>,  <a href="https://www.djoefbladet.dk/artikler/2024/05/anne-sophie-lassen-kvinder-forskning">Djoefbladet</a> (in Danish),  <a href="https://www.khrono.no/a-fa-barn-bidrar-til-at-kvinner-dropper-hele-forskerkarrieren/891955"> Khronos</a> (in Norwegian).
 <br>
 ##### <u>Gender Gaps from Labor Market Shocks</u> 
-with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> 
+with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a> <br>
 Published in <a href="https://www.sciencedirect.com/science/article/pii/S0927537123000696"> Labour Economics</a>, 2023. Also avilable as a <a href="https://research.upjohn.org/up_workingpapers/387/"> W.E. Upjohn Working Paper</a> along with a <a href="https://research.upjohn.org/up_policybriefs/60/">non-technical summary</a>.<br> 
 Media: <a href="https://cep.lse.ac.uk/pubs/download/cp672.pdf">LSE Centrepiece</a>, <a href="https://cepr.org/voxeu/columns/gender-gaps-labour-market-shocks">VoxEU</a>.
 <br> 
