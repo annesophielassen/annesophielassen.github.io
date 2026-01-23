@@ -38,8 +38,8 @@ with  Marco G. Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesa
 <br>
 #### Research in Progress
 
-##### <u>Parenthood and the Career Ladder: Evidence from Academia</u>
-with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a>, <a href="https://sites.google.com/view/sofiecairo"> Sofie Cairo</a> and <a href="https://research.hhs.se/esploro/profile/valentina_tartari/overview"> Valentina Tartari <br> E-mail me for draft
+##### <u>Parenthood and the Career Ladder: Evidence from Academia</u> E-mail me for draft
+with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a>, <a href="https://sites.google.com/view/sofiecairo"> Sofie Cairo</a> and <a href="https://research.hhs.se/esploro/profile/valentina_tartari/overview"> Valentina Tartari <br> 
 
 ##### <u>Expanding Paternity Leave: Effects on Beliefs, Norms, and Gender Gaps?</u>
 with <a href="https://www.henrikkleven.com/">Henrik Kleven</a>, <a href="https://app.scholarsite.io/camille-landais">Camille Landais</a>, <a href="https://sites.google.com/site/philrosenbaum/"> Philip Rosenbaum</a>, <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a>, and <a href="https://jakobsogaard.com/">Jakob Søgaard</a>
