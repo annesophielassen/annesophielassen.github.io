@@ -31,15 +31,15 @@ I document both inter-generational spillovers from maternal labor supply and pee
 <br>
 
 ##### <u>Firms and the Gender Wage Gap: A Comparison of Eleven Countries</u> 
-with  Marco G. Palladino, Antoine Bertheau, Alexander Hijzen, Astrid Kunze, Cesar Barreto, Dogan Gülümser, Marta Lachowska, Anne Sophie Lassen, Salvatore Lattanzio, Benjamin Lochner, Stefano Lombardi, Jordy Meekes, Balazs Murakozy, and Oskar Skans <br>
+with  <a href="https://marcoguidopalladino.com/">Marco G. Palladino</a>, <a href="https://www.antoinebertheau.com/research.html"> Antoine Bertheau</a>, Alexander Hijzen, Astrid Kunze, Cesar Barreto, Dogan Gülümser, Marta Lachowska, Salvatore Lattanzio, Benjamin Lochner, Stefano Lombardi, Jordy Meekes, Balazs Murakozy, and Oskar Skans <br>
 *We quantify the role of gender-specific firm wage premiums in explaining the private-sector gender gap in hourly wages using a harmonized research design across 11 matched employeremployee datasets — ten European countries and Washington State, USA. These premiums contribute to the gender wage gap through two channels: women’s concentration in lowerpaying firms (sorting) and women receiving lower premiums than men within the same firm (pay-setting). We find that firm wage premiums account for 10 to 30 percent of the gender wage gap. While both mechanisms matter, sorting is the predominant driver of the firm contribution to the gender wage gap in most countries. We document three patterns that are broadly consistent across countries: (1) women’s sorting into lower-paying firms increases with age; (2) women are more concentrated in low-paying firms with a high share of part-time workers; and (3) women receive about 90 percent of the rents that men receive from firm surplus gains.* <br>
-<a href="https://www.chicagofed.org/publications/working-papers/2025/2025-24">Click here the working paper </a> and <a href="https://www.oecd.org/en/publications/the-role-of-bargaining-and-discrimination-in-the-gender-wage-gap-in-france_1fd68687-en.html">the related OECD report.</a> 
+<a href="https://www.chicagofed.org/publications/working-papers/2025/2025-24">Click here the working paper </a>, <a href="https://www.youtube.com/live/RCkEHjCC3kI?t=420s">the NBER SI talk</a>, and the <a href="https://www.oecd.org/en/publications/the-role-of-bargaining-and-discrimination-in-the-gender-wage-gap-in-france_1fd68687-en.html">the related OECD report.</a> 
 <br>
 <br>
 #### Research in Progress
 
 ##### <u>Parenthood and the Career Ladder: Evidence from Academia</u> (E-mail me for draft)
-with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a>, <a href="https://sites.google.com/view/sofiecairo"> Sofie Cairo</a> and <a href="https://research.hhs.se/esploro/profile/valentina_tartari/overview"> Valentina Tartari <br> 
+with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a>, <a href="https://sites.google.com/view/sofiecairo"> Sofie Cairo</a> and <a href="https://research.hhs.se/esploro/profile/valentina_tartari/overview"> Valentina Tartari</a> <br> 
 
 ##### <u>Expanding Paternity Leave: Effects on Beliefs, Norms, and Gender Gaps?</u>
 with <a href="https://www.henrikkleven.com/">Henrik Kleven</a>, <a href="https://app.scholarsite.io/camille-landais">Camille Landais</a>, <a href="https://sites.google.com/site/philrosenbaum/"> Philip Rosenbaum</a>, <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a>, and <a href="https://jakobsogaard.com/">Jakob Søgaard</a>
