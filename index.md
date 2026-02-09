@@ -37,6 +37,8 @@ You can contact me on <a href="mailto:anne.sophie.lassen@wzb.eu">anne.sophie.las
 <br>
 #### News
 <br>
+Our paper <a href="https://www.chicagofed.org/publications/working-papers/2025/2025-24">Firms and the Gender Wage Gap: A Comparison of Eleven Countries</a> is available.
+<br>
 I'll be attending the <a href=" https://www.nber.org/conferences/si-2025-labor-studies"> NBER SI</a>, where Marco Palladino will present our paper <a href="https://www.antoinebertheau.com/uploads/1/0/4/1/104122340/gwg_across_countries_abstract_online.pdf">Firms and the Gender Wage Gap: A Comparison of Eleven Countries. </a>
 <br>
 <br>
@@ -44,9 +46,6 @@ On April 25, I'll be presenting at the <a href="https://www.nber.org/conferences
 <br>
 <br>
 From April 15-May 15, I'll be visiting <a href="https://www.henrikkleven.com/">Prof. Henrik Kleven</a> at Princeton University, Department of Economics. 
-<br>
-<br>
-Our paper <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20241118">Parenthood and Academic Career Trajectories</a> is published in the May 2024 Volumen of AEA Papers & Proceedings. 
 <br>
 <br>
 <br>
