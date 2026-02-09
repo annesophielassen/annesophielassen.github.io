@@ -40,7 +40,7 @@ You can contact me on <a href="mailto:anne.sophie.lassen@wzb.eu">anne.sophie.las
 Our paper <a href="https://www.chicagofed.org/publications/working-papers/2025/2025-24">Firms and the Gender Wage Gap: A Comparison of Eleven Countries</a> is available.
 <br>
 <br>
-On April 25, I'll be presenting at the <a href="https://www.nber.org/conferences/investments-early-career-scientists-spring-2025"> NBER Spring Meeting</a>. 
+On April 25, I'll be presenting at the <a href="https://www.nber.org/conferences/investments-early-career-scientists-spring-2025"> NBER Spring Meeting</a> Investments in Early Career Scientists. 
 <br>
 <br>
 From April 15-May 15, I'll be visiting <a href="https://www.henrikkleven.com/">Prof. Henrik Kleven</a> at Princeton University, Department of Economics. 
