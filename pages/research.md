@@ -46,9 +46,11 @@ I document both inter-generational spillovers from maternal labor supply and pee
 <br>
 #### Research in Progress
 
-##### <u>Parenthood and the Career Ladder: Evidence from Academia</u> (E-mail me for draft)
-with <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a>, <a href="https://sites.google.com/view/sofiecairo"> Sofie Cairo</a> and <a href="https://research.hhs.se/esploro/profile/valentina_tartari/overview"> Valentina Tartari</a> <br> 
+##### <u>The Socio-Economic Gradient in Reporting of Domestic Violence</u> 
+with <a href="https://sites.google.com/site/srbhalotra/">Sonia Bhalotra</a>, <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a>, and <a href="https://sites.google.com/site/henertimo/home"> Timo Hener</a>
 
+##### <u>Educational Disparities and The Role of Societal Reward Functions</u> 
+with <a href="https://sites.google.com/site/kaibarron/"> Kai Barron</a> and <a href="https://sites.google.com/site/herdissteingrimsdottir/home"> Herdis Steingrimsdottir</a> (pilot in process)
 
 
 <!-- ##### <u>Job Displacement, Inequality, and Domestic Violence</u>-->
