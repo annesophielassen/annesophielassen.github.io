@@ -37,6 +37,9 @@ You can contact me on <a href="mailto:anne.sophie.lassen@wzb.eu">anne.sophie.las
 <br>
 #### News
 <br>
+Our paper <a href="https://www.nber.org/papers/w34862">Expanding Paternity Leave: Effects on Beliefs, Norms, and Gender Gaps</a> is available.
+<br>
+<br>
 Our paper <a href="https://www.chicagofed.org/publications/working-papers/2025/2025-24">Firms and the Gender Wage Gap: A Comparison of Eleven Countries</a> is available.
 <br>
 <br>
