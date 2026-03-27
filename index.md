@@ -39,7 +39,7 @@ You can contact me on <a href="mailto:anne.sophie.lassen@wzb.eu">anne.sophie.las
 <br>
 Our paper <a href="https://cep.lse.ac.uk/pubs/download/dp2160.pdf">Parenthood and the Career Ladder: Evidence from Academia</a> along with a <a href="https://berlinschoolofeconomics.de/insight/parenthood-and-the-academic-career-ladder-1">non-technical summary</a> is available.<br>
 <br>
-Our paper <a href="https://www.nber.org/papers/w34862">Expanding Paternity Leave: Effects on Beliefs, Norms, and Gender Gaps</a> is available. I'll be attending the <a href="https://www.nber.org/conferences/public-economics-program-meeting-spring-2026">NBER Public Econ Spring Meeting</a> where the paper is included in the program. 
+Our paper <a href="https://www.nber.org/papers/w34862">Expanding Paternity Leave: Effects on Beliefs, Norms, and Gender Gaps</a> is available. I'll be attending the <a href="https://www.nber.org/conferences/public-economics-program-meeting-spring-2026">NBER Public Econ Spring Meeting April 16-17</a> where the paper is included in the program. 
 <br>
 <br>
 Our paper <a href="https://www.chicagofed.org/publications/working-papers/2025/2025-24">Firms and the Gender Wage Gap: A Comparison of Eleven Countries</a> is available.
