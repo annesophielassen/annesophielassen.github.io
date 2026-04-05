@@ -37,6 +37,8 @@ You can contact me on <a href="mailto:anne.sophie.lassen@wzb.eu">anne.sophie.las
 <br>
 #### News
 <br>
+My co-authors and I have been awarded <a href="https://www.upjohn.org/research-highlights/upjohn-institute-announces-2026-early-career-research-awards">the Upjohn Institute's 2026 Early Career Research Award</a> to conduct harmonized, cross-country on the design of parental leave benefits! We start with Denmark, Germany and Italy and will add more countries. 
+<br>
 Our paper <a href="https://cep.lse.ac.uk/pubs/download/dp2160.pdf">Parenthood and the Career Ladder: Evidence from Academia</a> along with a <a href="https://berlinschoolofeconomics.de/insight/parenthood-and-the-academic-career-ladder-1">non-technical summary</a> is available.<br>
 <br>
 Our paper <a href="https://www.nber.org/papers/w34862">Expanding Paternity Leave: Effects on Beliefs, Norms, and Gender Gaps</a> is available. I'll be attending the <a href="https://www.nber.org/conferences/public-economics-program-meeting-spring-2026">NBER Public Econ Spring Meeting April 16-17</a> where the paper is included in the program. 
@@ -44,11 +46,6 @@ Our paper <a href="https://www.nber.org/papers/w34862">Expanding Paternity Leave
 <br>
 Our paper <a href="https://www.chicagofed.org/publications/working-papers/2025/2025-24">Firms and the Gender Wage Gap: A Comparison of Eleven Countries</a> is available.
 <br>
-<br>
-On April 25, I'll be presenting at the Investments in Early Career Scientists <a href="https://www.nber.org/conferences/investments-early-career-scientists-spring-2025"> NBER Spring Meeting</a>. 
-<br>
-<br>
-From April 15-May 15, I'll be visiting <a href="https://www.henrikkleven.com/">Prof. Henrik Kleven</a> at Princeton University, Department of Economics. 
 <br>
 <br>
 <br>
