@@ -37,7 +37,7 @@ You can contact me on <a href="mailto:anne.sophie.lassen@wzb.eu">anne.sophie.las
 <br>
 #### News
 <br>
-My co-authors and I have been awarded <a href="https://www.upjohn.org/research-highlights/upjohn-institute-announces-2026-early-career-research-awards">the Upjohn Institute's 2026 Early Career Research Award</a> to conduct harmonized, cross-country on the design of parental leave benefits! We start with Denmark, Germany, and Italy and will add more countries. <br>
+My co-authors and I have been awarded <a href="https://www.upjohn.org/research-highlights/upjohn-institute-announces-2026-early-career-research-awards">the Upjohn Institute's 2026 Early Career Research Award</a> to conduct harmonized, cross-country on the design of parental leave benefits. We start with Denmark, Germany, and Italy and will add more countries. <br>
 <br>
 Our paper <a href="https://cep.lse.ac.uk/pubs/download/dp2160.pdf">Parenthood and the Career Ladder: Evidence from Academia</a> along with a <a href="https://berlinschoolofeconomics.de/insight/parenthood-and-the-academic-career-ladder-1">non-technical summary</a> is available.<br>
 <br>
