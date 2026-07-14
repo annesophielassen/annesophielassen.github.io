@@ -51,6 +51,9 @@ I document both inter-generational spillovers from maternal labor supply and pee
 <br>
 #### Research in Progress
 
+##### <u>Greedy Jobs and the Dynamics of Gender Pay Gaps: Evidence from Administrative Data Across Countries</u> 
+with <a href="https://marcoguidopalladino.com/">Marco G. Palladino</a> (co-lead), <a href="https://www.antoinebertheau.com/research.html"> Antoine Bertheau</a>, <a href="https://www.iza.org/person/1300/alexander-hijzen">Alexander Hijzen</a>,  <a href="https://sites.google.com/view/dogangulumser">Dogan Gülümser</a>, <a href="http://www.martalachowska.com/">Marta Lachowska</a>, <a href="https://sites.google.com/view/salvatore-lattanzio/home">Salvatore Lattanzio</a>, <a href="https://sites.google.com/view/benjaminlochner/">Benjamin Lochner</a>, <a href="https://stefano-lombardi.github.io/">Stefano Lombardi</a>, and <a href="https://sites.google.com/view/balazsmurakozy">Balazs Murakozy</a>. In preparation for <a href="https://irle.berkeley.edu/events/gender-and-wages-special-issue-conference/">Gender and Wages Special Issue Conference</a> of Industrial Relations.
+
 ##### <u>The Socio-Economic Gradient in Reporting of Domestic Violence</u> 
 with <a href="https://sites.google.com/site/srbhalotra/">Sonia Bhalotra</a>, <a href="https://sites.google.com/site/riaivandic/home"> Ria Ivandic</a>, and <a href="https://sites.google.com/site/henertimo/home"> Timo Hener</a>
 
